@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&family=Roboto:wght@400;700&display=swap');
+
+body{
+  background:black;
+  color:white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+h1,h2,h3, p.lead{
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+}
+
+h1{
+  text-align: center;  
+}
+
+h2{
+  text-align: center;
+  font-style: italic;
+}
+
+h4{
+  font-size:0.8rem;
+}
+
+h5{
+  font-size:1rem;
+  color:silver;
+}
+
