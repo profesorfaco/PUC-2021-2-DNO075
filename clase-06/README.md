@@ -1,4 +1,4 @@
-# Gráfico figurativo con SVG
+# Gráfico no figurativo con SVG
 
 ### Clase 06 → 20/09/2021
 
