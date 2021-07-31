@@ -36,7 +36,7 @@ Cada estudiante debería contar con:
 
 [Clase 05 → 13/09/2021](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-05) → Coding: HTML, CSS y JavaScript (sesión 2 de 2)
 
-[Clase 06 → 20/09/2021](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-06) → Gráfico figurativo con SVG
+[Clase 06 → 20/09/2021](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-06) → Gráfico no figurativo con SVG
 
 [Clase 07 → 27/09/2021](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-07) → Gráfico mixto con SVG
 
