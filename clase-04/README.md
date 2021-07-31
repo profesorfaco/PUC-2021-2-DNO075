@@ -37,4 +37,4 @@ https://jsparagatos.com/
 
 - - - - - - - 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-03) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-05) 
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-03) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-05) 
