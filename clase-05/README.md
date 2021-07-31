@@ -14,5 +14,5 @@ También utilizaremos [Adobe Illustrator](https://www.adobe.com/la/products/illu
 
 - - - - - - - - - - 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-07) 
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-05) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-07) 
 
