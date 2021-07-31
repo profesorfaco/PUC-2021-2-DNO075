@@ -16,7 +16,7 @@ Esto ya lo pudieron haber revisado en el [Wiki del este repositorio](https://git
 
 #### Ejercicio
 
-**Para analizar en detalle el trabajo de [Reuters Graphics](https://graphics.reuters.com/) seleccionado**, [cada dupla](https://docs.google.com/spreadsheets/d/1MIt1eZa-xDh4c1b-sxnYB19rWPAt2jouhps3nAk8WNc/edit?usp=sharing) debe guiarse con [la página web que encuentra preparada en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-04/), considerando que se puede:  
+**Para analizar en detalle el trabajo de [Reuters Graphics](https://graphics.reuters.com/) seleccionado**, [cada dupla](https://docs.google.com/spreadsheets/d/1MIt1eZa-xDh4c1b-sxnYB19rWPAt2jouhps3nAk8WNc/edit?usp=sharing) debe guiarse con [la página web que encuentra preparada en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-2/clase-04/), considerando que se puede:  
 
 - obtener una imagen de la infografía digital completa con el servicio de https://www.site-shot.com/ - Active el *full-size* entre las *Browser options* y defina una escala del 50% en las *Image options*. Si la infografía tiene muchas gradaciones de colores, con fotografías muy detallistas, prefiera la extensión de archivo JPG, en caso contrario mantenga la opción PNG. 
 
@@ -24,34 +24,13 @@ Esto ya lo pudieron haber revisado en el [Wiki del este repositorio](https://git
 
 - identificar las fuentes tipográficas con [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm), una extensión de Google Chrome
 
-- seleccionar gráficos según sean, claramente, figurativos, no figurativos o mixtos. Para los primeras, es importante buscar créditos de autores (ilustadoras, fotógrafas, etc.). Para segundo y tercero es importante identificar su nombre y función en el [Data Vis Catalogue](https://datavizcatalogue.com/ES/buscar.html) o [A Periodic Table of Visualization Methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
-
-
-| Nº    | Infografía en Reuters Graphics  | Análisis en GitHub Pages | Estudiantes    | 
-|:-----:|:--------------------|:-------------------------|:---------------------------|
-|  1    | [A scarce flavor](https://graphics.reuters.com/MCCORMICK-VANILLA/010092KE3B8/index.html) | https://annais-bj.github.io/ejercicio4-abj-mv/ | ANNAIS BERTIN & MONSERRAT VERGARA |
-|  2    | [Air Attack](https://graphics.reuters.com/CALIFORNIA-WILDFIRE/AIRCRAFT/bdwpkzmyyvm/index.html) | https://florenciavildosolae.github.io/infodigital4/ | AGUSTINA GONZÁLEZ & FLORENCIA VILDÓSOLA |
-|  3    | [America's cautious comeback](https://graphics.reuters.com/HEALTH-CORONAVIRUS/USA-TRENDS/jznpnbdojpl/index.html) | https://rosariogonzalez.github.io/Lunes-5-de-Abril/ | ROSARIO GONZÁLEZ & ELISA ROMÁN |
-|  4    | [Assessing Australia's "ecological disaster"](https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html) | https://m4rtina-gonzalez.github.io/info-digital-4/ | CATALINA GRACIA & MARTINA GONZÁLEZ |
-|  5    | [Climate Change](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/index.html) | https://gabrielaeschmidt.github.io/infografia.digital-4/ | GABRIELA ECHEVERRÍA & TRINIDAD MARTÍNEZ |
-|  6    | [Don't hoard!](https://graphics.reuters.com/HEALTH-CORONAVIRUS/FOOD/ygdpzjrwpwa/index.html) | https://sabrina11s.github.io/infodigital-4/ | CATALINA TOLEDO & SABRINA EGGERS |
-|  7    | [Good Dogs](https://graphics.reuters.com/USA-DOGSHOW/010060VM1N3/index.html) | https://vale-altamirano.github.io/info-digital-ejercicio4/ | VALENTINA ALTAMIRANO & NAOMI ELKAYAM |
-|  8    | [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/index.html) | https://anagalleguillos.github.io/Clase-04/ | VALENTINA MADRID & ANA GALLEGUILLOS |
-|  9   | [In a flash, a changed world](https://graphics.reuters.com/WW2-ANNIVERSARY/HIROSHIMA/rlgpdnqljpo/index.html) | https://marcosfernandezr.github.io/clase-04_InfoDigital/ | MARCOS FERNÁNDEZ & ROBERTO VERDUGO |
-|  10   | [Korea: a land divided](https://graphics.reuters.com/NORTHKOREA-SOUTHKOREA-UNIFICATION/010062ES43G/index.html) | https://cristianrisco.github.io/clase4/ | FRANCISCA VILLALÓN & CRISTIAN RISCO |
-|  11   | [MOONSHOT](https://graphics.reuters.com/SPACE-EXPLORATION-INDIA-MOON/0100B27N164/index.html) | https://cecysoto.github.io/clase-4-Infograf-a-digital-Funciones-y-formas-/ | PAULA HREPIC & CECILIA SOTO |
-|  12    | [The race gap](https://graphics.reuters.com/GLOBAL-RACE/USA/nmopajawjva/index.html) | https://rosa-enco.github.io/infografiadigital-actividad-4/ | ROSA ENCO |
-|  13   | [Vaping Crisis](https://graphics.reuters.com/HEALTH-VAPING/0100B4RB2H6/index.html) | https://egjimenez-uc.github.io/infografia-clase4/ | ELIANA JIMENEZ & MARIA JOSE SOTO |
-|  14   | [World’s biggest iceberg heads for disaster](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/index.html) | https://paulascheleff.github.io/infodigital-4/ | SOFÍA SÁNCHEZ & PAULA SCHELEFF |
-
 - - - - - - - 
 
 #### Tarea
 
-Leer la introducción al tutorial de SVG en MDN Web Docs:
+Revisar el sitio web 
 
-https://developer.mozilla.org/es/docs/Web/SVG/Tutorial/Introduction
-
+https://jsparagatos.com/
 
 - - - - - - - 
 
