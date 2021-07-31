@@ -40,4 +40,4 @@ Pueden encontrar información sobre el ICVU en:
 
 - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-06) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-08) 
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-06) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-08) 
