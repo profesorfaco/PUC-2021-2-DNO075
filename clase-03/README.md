@@ -30,13 +30,9 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [
 
 #### Tarea
 
-Revisar el Catálogo de Visualización de Datos, haciendo búsquedas por función y lista:
+Ver la introducción de este Curso Básico de HTML desde 0
 
-https://datavizcatalogue.com/ES/
-
-Echarle un vistazo a:
-
-https://www.visual-literacy.org/periodic_table/periodic_table.html
+https://www.youtube.com/watch?v=cqMfPS8jPys
 
 
 - - - - - - - 
