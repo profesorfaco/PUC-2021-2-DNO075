@@ -36,4 +36,4 @@ El nombre de la ponencia: [The impact of technology on infographics & data visua
 
 - - - - - - -
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-02)
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-02)
