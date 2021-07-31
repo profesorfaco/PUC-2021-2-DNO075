@@ -72,7 +72,7 @@ La calificación final de asignatura se basa en:
 
 - **Trabajo práctico en clase 8** → A evaluarse con pauta de cotejo. Equivale al 25% de la calificación final.
 
-- **Proceso de implementación de infografía digital, entre las clases 13 y 16** → Puntaje acumulativo. Equivalente al 25% de la calificación final. 
+- **Proceso de implementación de infografía digital, entre las clases 14 y 16** → Puntaje acumulativo. Equivalente al 25% de la calificación final. 
 
 - **Resultado de trabajo final** → A evaluarse con pauta de cotejo. Equivale al 25% de la calificación final.
 
