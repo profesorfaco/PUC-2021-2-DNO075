@@ -16,13 +16,13 @@
 
 - Meirelles, I. (2015). *Data Meets Viz Workshop*. En línea: http://rosuda.org/DMVslides-f/IsabelMeirelles_dataMeetViz.pdf
 
-La [presentación de la clase de hoy](https://docs.google.com/presentation/d/1j5rebTgSjs-YujZl2FtuM5mGCjnl-ABb6zsDhUxTCkE/edit?usp=sharing) la pueden encontrar en carpeta Drive ya compartida.
+La presentación de la clase de hoy la pueden encontrar en carpeta Drive ya compartida.
 
 - - - - - - - 
 
 #### Ejercicio
 
-**Para identificar ejemplos de lo que abordamos en la clase**, cada estudiante debe seleccionar de 6 a 10 imágenes de un infografista. Con tales imágenes y un poco de texto introductorio, tiene que crear una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-2/clase-01/). 
+**Para identificar ejemplos de lo que abordamos en la clase**, cada estudiante debe seleccionar de 6 a 10 imágenes de un infografista (*transformer*). Con tales imágenes y un poco de texto introductorio, tiene que crear una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-2/clase-01/). 
 
 La página creada, debe quedar [en línea con GitHub Pages](https://docs.github.com/es/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
