@@ -10,6 +10,8 @@
 
 - The Eyeo Festival (2011-2020): http://eyeofestival.com/
 
+La presentación de la clase de hoy la pueden encontrar en carpeta Drive ya compartida.
+
 - - - - - - - 
 
 #### Ejercicio
