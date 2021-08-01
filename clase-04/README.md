@@ -1,6 +1,8 @@
 # Coding: HTML, CSS y JavaScript (sesión 1 de 2)
 
 ### Clase 04 → 06/09/202
+
+A diferencia de las tres clases anteriores, el contenido de la clase lo encuentran a continuación:
  
 - [HTML](https://github.com/profesorfaco/dno075-2021/wiki/HTML) es un lenguaje descriptivo que podemos reconocer por sus elementos demarcados con `<etiqueta atributo="…"></etiqueta>`.
 
