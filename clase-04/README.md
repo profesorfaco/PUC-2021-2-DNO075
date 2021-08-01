@@ -10,7 +10,7 @@ A diferencia de las tres clases anteriores, el contenido de la clase lo encuentr
 
 - [JavaScript](https://github.com/profesorfaco/dno075-2021-2/wiki/JavaScript) que aporta interactividad a través de la manipulación de la estructura del documento HTML (el DOM), sin manipular el documento mismo; no cambia el código fuente que describe el sitio, pero pude modificar la interpretación de tal descripción según ciertas condiciones: La hora en el computador del visitante, la cantidad de scroll que haya hecho, sus respuestas en un formulario, etc.
 
-Del listado recién presentado, el "complicado" podría ser JavaScript, porque es el que trabaja directamente con las "complejidades" de la interacción. Con JavaScript (y sus bibliotecas) se programa. Con los demás se describe. Pero hay muchos recursos en línea que pueden guiar una introducción a la programación; es muy recomendable dedicarle un rato a la introducción ofrecida por [JavaScript para gatos](https://jsparagatos.com/).
+Del listado recién presentado, el "complicado" podría ser JavaScript, porque es el que trabaja directamente con las "complejidades" de la interacción. Con JavaScript (y sus bibliotecas) se programa. Con los demás se describe.
 
 Para esta primera sesión, lo important es tener claro que **HTML (HyperText Markup Language) es un lenguaje estándar que describe la estructura de las páginas web (qué es lo que contiene la página)**. Y este se complementa con otro lenguaje estándar, el **CSS (Cascading Style Sheets) que describe la presentación de las páginas web (cómo se muestra lo que contiene la página)**. 
 
