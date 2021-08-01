@@ -30,7 +30,7 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html), [G
 
 #### Tarea
 
-HTML y CSS curso práctico 💪 Desde cero [Tutorial Español]
+Revisar en YouTube el primer video de HTML y CSS curso práctico 💪 Desde cero [Tutorial Español]
 
 https://youtu.be/rr2H086z16s
 
