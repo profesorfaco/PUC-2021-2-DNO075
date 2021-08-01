@@ -8,7 +8,7 @@ A diferencia de las tres clases anteriores, el contenido de la clase lo encuentr
 
 - [CSS](https://github.com/profesorfaco/dno075-2021-2/wiki/CSS) es un lenguaje descriptivo que podemos reconocer la regla que se estructura con `selector{propiedad:valor;}` que podemos encontrar en el documento HTML entre etiquetas `<style></style>` o vincularse mediante `<link rel="stylesheet" href="…" />`.
 
-- [JavaScript](https://github.com/profesorfaco/dno075-2021/wiki/JavaScript) es un lenguaje de programación al que hemos accediso por vía de jQuery, una vieja biblioteca que se puede reconocer por su estructura `$(sujeto).predicado()`, que podemos encontrar en el documento HTML entre etiquetas `<script></script>` o vincularse mediante `<script src="…"></script>`.
+- [JavaScript](https://github.com/profesorfaco/dno075-2021-2/wiki/JavaScript) es un lenguaje de programación al que hemos accediso por vía de jQuery, una vieja biblioteca que se puede reconocer por su estructura `$(sujeto).predicado()`, que podemos encontrar en el documento HTML entre etiquetas `<script></script>` o vincularse mediante `<script src="…"></script>`.
 
 Del listado recién presentado, el "complicado" podría ser JavaScript, porque es el que trabaja directamente con las "complejidades" de la interacción. Con JavaScript (y sus bibliotecas) se programa. Con los demás se describe. Pero hay muchos recursos en línea que pueden guiar una introducción a la programación; es muy recomendable dedicarle un rato a la introducción ofrecida por [JavaScript para gatos](https://jsparagatos.com/).
 
