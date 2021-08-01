@@ -1,4 +1,4 @@
-# Coding: HTML, CSS y JavaScript (sesión 2 de 2)
+# Coding: HTML, CSS y SVG
 
 ### Clase 05 → 13/09/2021
 
