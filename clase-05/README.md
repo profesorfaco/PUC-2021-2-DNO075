@@ -1,4 +1,4 @@
-# Coding: HTML, SVG y CSS 
+# Infografía digital: HTML, SVG, CSS y JavaScript
 
 ### Clase 05 → 13/09/2021
 
