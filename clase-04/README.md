@@ -12,7 +12,7 @@ A diferencia de las tres clases anteriores, el contenido de la clase lo encuentr
 
 Del listado recién presentado, el "complicado" podría ser JavaScript, porque es el que trabaja directamente con las "complejidades" de la interacción. Con JavaScript (y sus bibliotecas) se programa. Con los demás se describe.
 
-Para esta primera sesión, lo important es tener claro que **HTML (HyperText Markup Language) es un lenguaje estándar que describe la estructura de las páginas web (qué es lo que contiene la página)**. Y este se complementa con otro lenguaje estándar, el **CSS (Cascading Style Sheets) que describe la presentación de las páginas web (cómo se muestra lo que contiene la página)**. 
+Para esta clase, lo important es tener claro que **HTML (HyperText Markup Language) es un lenguaje estándar que describe la estructura de las páginas web (qué es lo que contiene la página)**. Y este se complementa con otro lenguaje estándar, el **CSS (Cascading Style Sheets) que describe la presentación de las páginas web (cómo se muestra lo que contiene la página)**. 
 
 **Existen marcos de trabajo de código abierto que nos pueden ayudar a avanzar más rápido en la construcción de una infografía digital desde relaciones predefinidas de HTML y CSS**. Por su popularidad, corresponde mencionar a:
 
