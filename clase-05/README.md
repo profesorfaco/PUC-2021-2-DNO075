@@ -1,4 +1,4 @@
-# Coding: HTML, CSS y SVG
+# Coding: HTML, SVG y CSS 
 
 ### Clase 05 → 13/09/2021
 
