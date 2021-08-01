@@ -94,7 +94,7 @@ Una vez hecho este trabajo, completen [la página web que encuentra preparada en
 
 #### Tarea
 
-Revisar JavaScript Para Gatos :cat:  
+Revisar la página web JavaScript Para Gatos :cat:  
 
 https://jsparagatos.com/
 
