@@ -12,6 +12,8 @@
 
 - Catálogo de Visualización de Datos. En línea: https://datavizcatalogue.com/ES/buscar.html
 
+La presentación de la clase de hoy la pueden encontrar en carpeta Drive ya compartida.
+
 - - - - - - - - - - - - - 
 
 #### Ejercicio
