@@ -8,7 +8,7 @@ A diferencia de las tres clases anteriores, el contenido de la clase lo encuentr
 
 - [CSS](https://github.com/profesorfaco/dno075-2021-2/wiki/CSS) es un lenguaje descriptivo que podemos reconocer la regla que se estructura con `selector{propiedad:valor;}` que podemos encontrar en el documento HTML entre etiquetas `<style></style>` o vincularse mediante `<link rel="stylesheet" href="…" />`.
 
-- [JavaScript](https://github.com/profesorfaco/dno075-2021-2/wiki/JavaScript) que aporta interactividad a través de la manipulación de la estructura del documento HTML (el DOM), sin manipular el documento mismo; no cambia el código fuente que describe el sitio, pero pude modificar la interpretación de tal descripción según ciertas condiciones: La hora en el computador del visitante, la cantidad de scroll que haya hecho, sus respuestas en un formulario, etc.
+- [JavaScript](https://github.com/profesorfaco/dno075-2021-2/wiki/JavaScript) que aporta interactividad a través de la manipulación de la estructura del documento HTML (el DOM), sin manipular el documento mismo; no cambia el código fuente que describe el sitio, pero pude modificar la interpretación de tal descripción según ciertas condiciones: La hora en el lado del cliente, la cantidad de scroll que haya hecho quien lee, sus respuestas en un formulario, etc.
 
 Del listado recién presentado, el "complicado" podría ser JavaScript, porque es el que trabaja directamente con las "complejidades" de la interacción. Con JavaScript (y sus bibliotecas) se programa. Con los demás se describe.
 
