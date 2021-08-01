@@ -24,7 +24,7 @@ Considerando que:
 
 Busque 4 ejemplos de uso de los primeros y 4 de uso de los segundos en infografía digital, y complete una página web aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021-2/clase-03/) de repositorio.
 
-Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html), [GIMP](https://www.gimp.org/) o [Squoos](hhttps://squoosh.app/), para ajustar formato, peso y resolución de las imágenes seleccionadas.
+Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html), [GIMP](https://www.gimp.org/) o [Squoos](https://squoosh.app/), para ajustar formato, peso y resolución de las imágenes seleccionadas.
 
 - - - - - - - 
 
