@@ -14,13 +14,16 @@ Cada estudiante debería contar con:
 
 - Computador
 
-- Cuenta persona en [GitHub](https://github.com/join)
+- Dos navegadores web: Chrome y Firefox ¡No trabajaremos con Safari!
 
-- Editor de código fuente ([Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/))
+- Una cuenta personal en [GitHub](https://github.com/join)
 
-- Editor de gráficos rasterizados ([Adobe Photoshop](https://www.adobe.com/la/products/photoshop.html), [GIMP](https://www.gimp.org/) o [Photoshopea](https://www.photopea.com/))
+- Un editor de código fuente ([Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/))
 
-- Editor de gráficos vectoriales ([Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html), [InkScape](https://inkscape.org/es/) o [Boxy SVG](https://boxy-svg.com/))
+- Un editor de gráficos rasterizados ([Adobe Photoshop](https://www.adobe.com/la/products/photoshop.html), [GIMP](https://www.gimp.org/) o [Photoshopea](https://www.photopea.com/))
+
+- Un editor de gráficos vectoriales ([Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html), [InkScape](https://inkscape.org/es/) o [Boxy SVG](https://boxy-svg.com/))
+
 
 - - - - - - - - - -
 
@@ -83,20 +86,18 @@ La calificación final de asignatura se basa en:
 
 #### Expertas/os
 
-- Alberto Cairo - http://www.thefunctionalart.com/
+- Adolfo Arranz - https://www.scmp.com/author/adolfo-arranz
+- Alberto Cairo - http://albertocairo.com/
+- Nigel Holmes - http://www.nigelholmes.com/
 - Giorgia Lupi - http://giorgialupi.com/ 
-- David McCandless - https://informationisbeautiful.net/
-- Sheila Pontis - https://sheilapontis.wordpress.com/
-- Nadja Popovich - https://www.nytimes.com/by/nadja-popovich
-- Stefanie Posavec - http://www.stefanieposavec.com/
-- Mario Zafra - http://www.marianozafra.com/
+- Isabel Meirelles - https://isabelmeirelles.com/
 
-#### Antecedentes/Referencias
+#### Antecedentes
 
-- [Info We Trust](https://infowetrust.com/essays): A creative studio that makes powerful data stories that inspire. Our craft is fueled by design and science.
+- [MALOFIEJ AWARDS](https://www.malofiejgraphics.com/): The Pulitzers for infographics, organized by the Society for News Design Spain (SNDE).
 - [REUTERS INTERACTIVES](https://graphics.reuters.com/): A collection of recent work from the Reuters Graphics team.
 - [SCMP Infographics](https://www.scmp.com/infographic/): The Collection of graphics made by The South China Morning Post.
-- [Tabletop Whale](http://tabletopwhale.com/): An original science illustration blog.
+- [SCMP Printed Graphics](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/)
 
 - - - - - - - - - -
 
@@ -106,15 +107,13 @@ La calificación final de asignatura se basa en:
 
 Cairo, Alberto (2011). *El arte funcional: Infografía y visualización de información*. Madrid: Alamut
 
-Cairo, Alberto (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
+Cairo, Alberto (2008). *Infografía 2. 0: Visualización Interactiva de Información en Prensa*. Madrid: Alamut.
 
 Meirelles, Isabel (2013). *Design for Information: An Introduction to the histories, theories, and best practices behind effective information visualizations*. Beverly, MA: Rockport Publishers.
 
-Roam, Dan (2008). *The Back of the Napkin: Solving Problems and Selling Ideas with Pictures*. Portfolio
-
 #### Complementaria
 
-Cairo, Alberto (2008). *Infografía 2.0*. Madrid: Alamut.
+Cairo, Alberto (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
 
 Errea, Javier (2017). *Visual Journalism: Infographics from the World's Best Newsrooms and Designers*. Berlin: Gestalten
 
@@ -123,5 +122,7 @@ Finke, T., Manger, S., & Fichtel, S. (2012). *Informotion: Animated infographics
 Franchi, Francesco (2013). *Designing News: Changing the World of Editorial Design and Information Graphics*. Berlin: Gestalten
 
 Frascara, Jorge (2006). El diseño de comunicación. Buenos Aires: Infinito.
+
+Roam, Dan (2008). *The Back of the Napkin: Solving Problems and Selling Ideas with Pictures*. Portfolio
 
 Wiedemann, Julius (2016) *National Geographic Infographics*. Colonia: Taschen.
