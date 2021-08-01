@@ -1,4 +1,4 @@
-# Coding: HTML, CSS y JavaScript (sesión 1 de 2)
+# Coding: HTML, CSS y JavaScript
 
 ### Clase 04 → 06/09/202
 
