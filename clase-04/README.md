@@ -1,4 +1,4 @@
-# Coding: HTML, CSS y JavaScript
+# Infografía digital: HTML, CSS y JavaScript
 
 ### Clase 04 → 06/09/202
 
