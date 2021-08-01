@@ -16,13 +16,7 @@
 
 **Para conocer más infografistas**, cada estudiante debe seleccionar de 6 a 10 imágenes de trabajos de un/a mismo/a infografista. Con estas imágenes tiene que completar una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-02/). 
 
-Una vez terminada su página, debe ponerla en línea, usando su propia cuenta de GitHub y GitHub Pages.
-
-Como en clase pasada, se recomienda:
-
-- Apoyarse en [el Wiki de este repositorio](https://github.com/profesorfaco/dno075-2021-1/wiki). 
-- Aprovechar servicios en línea que permiten [formatear](https://webformatter.com/html) y [validar](https://validator.w3.org/) código fuente.
-- Solicitar ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/).
+La página creada, debe quedar [en línea con GitHub Pages](https://docs.github.com/es/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
 - - - - - - - 
 
