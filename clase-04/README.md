@@ -4,9 +4,9 @@
 
 A diferencia de las tres clases anteriores, el contenido de la clase lo encuentran a continuación:
  
-- [HTML](https://github.com/profesorfaco/dno075-2021/wiki/HTML) es un lenguaje descriptivo que podemos reconocer por sus elementos demarcados con `<etiqueta atributo="…"></etiqueta>`.
+- [HTML](https://github.com/profesorfaco/dno075-2021-2/wiki/HTML) es un lenguaje descriptivo que podemos reconocer por sus elementos demarcados con `<etiqueta atributo="…"></etiqueta>`.
 
-- [CSS](https://github.com/profesorfaco/dno075-2021/wiki/CSS) es un lenguaje descriptivo que podemos reconocer la regla que se estructura con `selector{propiedad:valor;}` que podemos encontrar en el documento HTML entre etiquetas `<style></style>` o vincularse mediante `<link rel="stylesheet" href="…" />`.
+- [CSS](https://github.com/profesorfaco/dno075-2021-2/wiki/CSS) es un lenguaje descriptivo que podemos reconocer la regla que se estructura con `selector{propiedad:valor;}` que podemos encontrar en el documento HTML entre etiquetas `<style></style>` o vincularse mediante `<link rel="stylesheet" href="…" />`.
 
 - [JavaScript](https://github.com/profesorfaco/dno075-2021/wiki/JavaScript) es un lenguaje de programación al que hemos accediso por vía de jQuery, una vieja biblioteca que se puede reconocer por su estructura `$(sujeto).predicado()`, que podemos encontrar en el documento HTML entre etiquetas `<script></script>` o vincularse mediante `<script src="…"></script>`.
 
