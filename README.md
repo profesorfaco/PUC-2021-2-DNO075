@@ -35,7 +35,7 @@ Cada estudiante debería contar con:
 
 [Clase 03 → 30/08/2021](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-03) → Infografía actual
 
-[Clase 04 → 06/09/2021](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-04) → Infografía digital: HTML, CSS y JavaScript
+[Clase 04 → 06/09/2021](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-04) → Infografía digital: HTML, SVG y CSS
 
 [Clase 05 → 13/09/2021](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-05) → Infografía digital: HTML, SVG, CSS y JavaScript
 
