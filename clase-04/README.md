@@ -1,4 +1,4 @@
-# Infografía digital: HTML, CSS y JavaScript
+# Infografía digital: HTML, SVG y CSS
 
 ### Clase 04 → 06/09/202
 
@@ -8,11 +8,7 @@ A diferencia de las tres clases anteriores, el contenido de la clase lo encuentr
 
 - [CSS](https://github.com/profesorfaco/dno075-2021-2/wiki/CSS) es un lenguaje descriptivo que podemos reconocer la regla que se estructura con `selector{propiedad:valor;}` que podemos encontrar en el documento HTML entre etiquetas `<style></style>` o vincularse mediante `<link rel="stylesheet" href="…" />`.
 
-- [JavaScript](https://github.com/profesorfaco/dno075-2021-2/wiki/JavaScript) que aporta interactividad a través de la manipulación de la estructura del documento HTML (el DOM), sin manipular el documento mismo; no cambia el código fuente que describe el sitio, pero pude modificar la interpretación de tal descripción según ciertas condiciones: La hora en el lado del cliente, la cantidad de scroll que haya hecho quien lee, sus respuestas en un formulario, etc.
-
-Del listado recién presentado, el "complicado" podría ser JavaScript, porque es el que trabaja directamente con las "complejidades" de la interacción. Con JavaScript (y sus bibliotecas) se programa. Con los demás se describe.
-
-Para esta clase, lo important es tener claro que **HTML (HyperText Markup Language) es un lenguaje estándar que describe la estructura de las páginas web (qué es lo que contiene la página)**. Y este se complementa con otro lenguaje estándar, el **CSS (Cascading Style Sheets) que describe la presentación de las páginas web (cómo se muestra lo que contiene la página)**. 
+- [SVG](https://github.com/profesorfaco/dno075-2021-2/wiki/SVG) es un dialecto, muy parecido a HTML, que también podemos reconocer por sus elementos demarcados con `<etiqueta atributo="…"></etiqueta>`. La diferencia es que estos atributos no demarcan contenidos de una página web. Lo que demarcan son los elementos en un gráfico vectorial.
 
 **Existen marcos de trabajo de código abierto que nos pueden ayudar a avanzar más rápido en la construcción de una infografía digital desde relaciones predefinidas de HTML y CSS**. Por su popularidad, corresponde mencionar a:
 
@@ -22,9 +18,11 @@ Para esta clase, lo important es tener claro que **HTML (HyperText Markup Langua
 
 - [Semantic UI](https://semantic-ui.com/): *A development framework that helps create beautiful, responsive layouts using human-friendly HTML*
 
-Hemos trabajado dos clases con [Bootstrap](https://getbootstrap.com/), con lo que nos hemos relacionado con su lógica de las 12 columnas (`col`) en las que se puede dividir una fila (`row`) que se va ajustando dentro de un contenedor (`container`), una lógica con la que [Bootstrap](https://getbootstrap.com/) se adapta a distintos tamaños de pantalla.
+Hemos trabajado todas clases con [Bootstrap](https://getbootstrap.com/) y esta no será la excepción.
 
-Digamos que en este contenedor (`container`) quiero dividir la fila (`row`) en dos partes del mismo ancho, para que una se muestre al lado de la otra. Para lograrlo debo tomar 6 y 6 columnas (`col`). Dentro del cuerpo del documento HTML, esto se vería así:
+La clave para sacarle provecho a [Bootstrap](https://getbootstrap.com/) es relacionarnos con su lógica de las 12 columnas (`col`) en las que se puede dividir una fila (`row`) que se va ajustando dentro de un contenedor (`container`), una lógica con la que podemos hacer infografías digitales responsivas.
+
+Digamos que en un contenedor (`container`) quiero dividir la fila (`row`) en dos partes del mismo ancho, para que una se muestre al lado de la otra. Para lograrlo debo tomar 6 y 6 columnas (`col`). Dentro del cuerpo del documento HTML, esto se vería así:
 
 ```
 <div class="container">
