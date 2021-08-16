@@ -4,11 +4,34 @@
 
 A diferencia de las tres clases anteriores, el contenido de la clase lo encuentran a continuación:
  
-- [HTML](https://github.com/profesorfaco/dno075-2021-2/wiki/HTML) es un lenguaje descriptivo que podemos reconocer por sus elementos demarcados con `<etiqueta atributo="…"></etiqueta>`.
+- **[HTML](https://github.com/profesorfaco/dno075-2021-2/wiki/HTML)** es un lenguaje descriptivo que podemos reconocer por sus **elementos** demarcados con `<etiqueta atributo="…"></etiqueta>`.
 
-- [CSS](https://github.com/profesorfaco/dno075-2021-2/wiki/CSS) es un lenguaje descriptivo que podemos reconocer la regla que se estructura con `selector{propiedad:valor;}` que podemos encontrar en el documento HTML entre etiquetas `<style></style>` o vincularse mediante `<link rel="stylesheet" href="…" />`.
+- **[CSS](https://github.com/profesorfaco/dno075-2021-2/wiki/CSS)** es un lenguaje descriptivo que podemos reconocer por sus **reglas** que se estructuran con `selector{propiedad:valor;}`. Estas reglas las podemos encontrar incrustadas en la cabeza del documento HTML, entre etiquetas `<style></style>`, o bien podemos encontrarlas en una hoja de estilo independiente, que se vincula en la cabeza del documento HTML, mediante `<link rel="stylesheet" href="…" />`.
 
-- [SVG](https://github.com/profesorfaco/dno075-2021-2/wiki/SVG) es un dialecto, muy parecido a HTML, que también podemos reconocer por sus elementos demarcados con `<etiqueta atributo="…"></etiqueta>`. La diferencia es que estos atributos no demarcan contenidos de una página web. Lo que demarcan son los elementos en un gráfico vectorial.
+- **[SVG](https://github.com/profesorfaco/dno075-2021-2/wiki/SVG)** es un dialecto, muy parecido a HTML, tanto que podría verse así: `<etiqueta atributo="…"></etiqueta>`. La diferencia es que estos elementos marcados no son los contenidos en un hipertexto sino las **formas** en un gráfico vectorial; un gráfico que puede inscrustarse en el cuerpo del documento HTML entre etiquetas `<svg></svg>` o también vincularse en el cuerpo del documento HTML como si se tratara de un objeto `<object type="image/svg+xml" data="…"></object>` o una imagen `<img src="…">`.
+
+Los dos lenguajes (HTML y CSS) y el dialecto (SVG) se pueden combinar para obtener, por ejemplo, una página con fondo rojo que contenga un SVG que, a su vez, contenga un círculo negro al centro:
+
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Muy simple</title>
+        <style>
+            body {
+                background: red;
+            }
+        </style>
+    </head>
+    <body>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100"><circle cx="100" cy="50" r="25" /></svg>
+    </body>
+</html>
+```
+
+- - - - - - - - - - - -
 
 **Existen marcos de trabajo de código abierto que nos pueden ayudar a avanzar más rápido en la construcción de una infografía digital desde relaciones predefinidas de HTML y CSS**. Por su popularidad, corresponde mencionar a:
 
@@ -20,7 +43,7 @@ A diferencia de las tres clases anteriores, el contenido de la clase lo encuentr
 
 Hemos trabajado todas clases con [Bootstrap](https://getbootstrap.com/) y esta no será la excepción.
 
-La clave para sacarle provecho a [Bootstrap](https://getbootstrap.com/) es relacionarnos con su lógica de las 12 columnas (`col`) en las que se puede dividir una fila (`row`) que se va ajustando dentro de un contenedor (`container`), una lógica con la que podemos hacer infografías digitales responsivas.
+La clave para sacarle un poco más de provecho a [Bootstrap](https://getbootstrap.com/) es relacionarnos con su lógica de clases que se basa en la idea de 12 columnas (`col`) en las que se puede dividir una fila (`row`) que se va ajustando dentro de un contenedor (`container`), una lógica con la que podemos hacer páginas web responsivas.
 
 Digamos que en un contenedor (`container`) quiero dividir la fila (`row`) en dos partes del mismo ancho, para que una se muestre al lado de la otra. Para lograrlo debo tomar 6 y 6 columnas (`col`). Dentro del cuerpo del documento HTML, esto se vería así:
 
@@ -44,43 +67,64 @@ Ahora, quiero hacer la misma división pero sólo desde una pantalla mediana ([m
 </div>
 ```
 
-Cambiemos de ejemplo, considerando que Robert Bringhurst (2008) escribe:
+La indicación es que desde mediano (a mayor tamaño), tome 6 y 6 columnas. Por defecto, en un tamaño menor se tomarán las 12.
 
-> La cantidad que se considera satisfactoria como longitud de línea para una página de una sola columna compuesta en una fuente con remates va entre 45 u 75 caracteres. La línea de 66 caracteres (contando tanto las letras como los espacios en blanco) se considera ideal. Para un trabajo de varias columnas, 40 a 50 caracteres es un buen promedio.
+- - - - - - - 
 
-Podríamos necesitar una imagen a todo lo ancho de la fila dentro del contenedor, y bajo ella un párrafo centrado que utilice menos columnas en la medida que éstas se ensanchan junto a la pantalla, así mantener una anchura de párrafo cómoda a la lectura. El código del documento completo debería verse así:
+Cuando utilizamos [Bootstrap](https://getbootstrap.com/) nos aprovechamos de [una hoja de estilos CSS](https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.css) que pesa originalmente más de 200 KB (aunque lo común es usar la versión *minified*, que pesa cerca de 160 KB)
+
+Se trata de una hoja de estilo relativamente pesada, que contiene muchísimas definiciones que podríamos llegar a ocupar. Pero, a veces, terminamos utilizando muy pocas. Por ello, si al publicar una infografía digital necesitamos hacer más rápida su carga, podríamo reducir el peso de la hoja de estilos CSS de Boostrap con alguna de las alternativas propuestas en este artículo: https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/
+
+La hoja de estilo de [Bootstrap](https://getbootstrap.com/) también puede complementarse con reglas entre etiquetas `<style></style>`, o en una segunda hoja de estilos independiente, vinculada mediante `<link rel="stylesheet" href="…" />`. 
+
+La primera opción, de incluir nuestras reglas entre `<style></style>` la hemos usado en las clases anteriores, con lo que la cabeza del `index.html` se ve más o menos así:
 
 ```
-<!doctype html>
-<html lang="es">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <title>Hola mundo</title>
-  </head>
-  <body>
-  <div class="container">
-   <div class="row">
-    <div class="col-12">
-     <img src="https://picsum.photos/1600/900?grayscale" class="w-100 my-4" alt="esta es una imagen random">
-    </div>
-    <div class="col-11 col-sm-10 col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto">
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla in molestie felis, eget egestas lacus. Etiam orci magna, dignissim at dolor eu, finibus molestie mi. Suspendisse fringilla sem magna, eget pharetra orci faucibus sit amet.</p>
-    </div>
-   </div>
-  </div>    
-  </body>
-</html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Primero vinculamos Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+<!-- Luego incrustamos el CSS complementario -->
+<style>
+header p { text-align: justify; }
+header p.lead { line-height: 1.6; }
+.card, .card-img-top { border: none; border-radius: 0 0; }
+</style>
+<title>Escribo acá el título que se muestra en la pestaña del navegador</title>
+</head>
 ```
 
-Una vez leído y comprendido el código en el ejemplo recién presentado, se puede pasar al ejercicio.
+Pero usando la segunda opción, de una hoja de estilo independiente a la que podríamos llamar `style.css`, la cabeza del `index.html` se vería así:
+
+```
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Primero vinculamos Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+<!-- Luego vinculamos el CSS complementario -->
+<link href="style.css" rel="stylesheet">
+<title>Escribo acá el título que se muestra en la pestaña del navegador</title>
+</head>
+```
 
 - - - - - - - 
 
 #### Ejercicio
 
-Pendiente
+Lo que queda pendiente es revisar más a fondo al tercero en el trío HTML, CSS y SVG. Para hacerlo, nos aprovecharemos de https://www.guemil.info/icons/
+
+Si revisan la página donde se despliega cada *icon* de manera independiente, encontrarán un botón que les permite descargarlo como SVG. 
+
+Es necesario que descarguen 5 pictogramas que les permitan informar de algo en 5 partes o pasos, [basándose en el docmento HTML compartido en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-2/clase-04/).
+
+Completen la información con título y texto introductorio, además de los textos que acompañarán a cada SVG. E intenten resolver dos desafíos:
+
+- Cambiar la manera en que se vinculan los SVG, que no sea como imágenes sino como objetos `<object type="image/svg+xml" data="…"></object>`
+
+- Agreguen una regla de estilo CSS que afecte el `fill` de los `path` en todos los SVG vinculados como objetos. 
+
 
 - - - - - - - 
 
