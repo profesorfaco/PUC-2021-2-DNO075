@@ -37,7 +37,7 @@ Dominar un lenguaje de programación toma tiempo de estudio y práctica, pero el
 
 - un *framework* es una cocina dispuesta para que prepares un tipo de comida específica, con eficacia y eficiencia (una cocina de restaurant que ofrece sushi es distinta de una de restaurant de pasas o parrilladas).
 
-Existen muchas [*libraries*](https://www.tiktok.com/@ifluent/video/6992725135065124102) de Javascript; Bootstrap ofrece una que permiten el funcionamiento de componentes tales como:
+Existen muchas [*libraries*](https://www.tiktok.com/@ifluent/video/6992725135065124102) de Javascript; [Bootstrap](https://getbootstrap.com/) ofrece una que permiten el funcionamiento de componentes tales como:
 
 - [Accordion](https://getbootstrap.com/docs/5.1/components/accordion/)
 
