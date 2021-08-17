@@ -49,13 +49,15 @@ Existen muchas [*libraries*](https://www.tiktok.com/@ifluent/video/6992725135065
 
 ### Ejercicio
 
-**Para analizar en detalle el trabajo de [Reuters Graphics](https://graphics.reuters.com/) seleccionado**, en duplas tienen que:
+**Escoger una infografia digital publicada en [Reuters Graphics](https://graphics.reuters.com/) para analizarla**. Para su análisis, tiene que:
 
 - obtener una imagen de la infografía digital completa con el servicio de https://www.site-shot.com/ - Active el *full-size* entre las *Browser options* y defina una escala del 50% en las *Image options*. Si la infografía tiene muchas gradaciones de colores, con fotografías muy detallistas, prefiera la extensión de archivo JPG, en caso contrario mantenga la opción PNG. 
 
-- aprovechar una copia de la imagen recién obtenida para identificar colores; recordando que en Photoshop conviene difumar (*blur*), ajustar niveles, crear mosaicos y ajustar nuevamente (siempre comparando con el original). El resultado de este proceso es una imagen muy pixelada que se puede subir a [Adobe Color](https://color.adobe.com/es/create/image) para obtener los [códigos de color HTML](https://htmlcolorcodes.com/es/). Recuerde que no es lo mismo una carta o un tema de color que una paleta cromática. Esta última debe incluir las proporciones de todos los colores en uso y cuidar la posición en que se presenta cada color. Las otras solo identifican los colores uso.
+- aprovechar una copia de la imagen recién obtenida para identificar colores más usados en la infografía digital completa; puede seleccionarlos con la ayuda de  [Adobe Color](https://color.adobe.com/es/create/image).
 
-- identificar las fuentes tipográficas con [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm), una extensión de Google Chrome
+- identificar las fuentes tipográficas con [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm), una extensión de Google Chrome. Una vez haya identificado la tipografía, busque información sobre ella y una imagen en donde se desplieguen los distintos caracteres. 
+
+- recortar gráficos figurativos, no figurativos y mixtos que se estén usando en la infografía.
 
 Una vez hecho este trabajo, completen [la página web que encuentra preparada en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-2/clase-05/).
 
