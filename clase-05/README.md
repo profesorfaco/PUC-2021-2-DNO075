@@ -20,7 +20,7 @@ Si sabemos algo sobre declaración de variables y tipos de datos en JavaScript, 
 
 Si queremos imprimir en consola cada elemento de tal arreglo, podríamos escribir: 
 
-`retinal.forEach(e => console.log(e));`
+`retinal.forEach(e => console.log(e))`
 
 Si es que queremos ordenar alfabéticamente los elementos en el arreglo antes de imprimirlos, podríamos escribir:
 
