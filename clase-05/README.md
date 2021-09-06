@@ -57,7 +57,7 @@ Existen muchas [*libraries*](https://www.tiktok.com/@ifluent/video/6992725135065
 
 - identificar las fuentes tipográficas con [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm), una extensión de Google Chrome. Una vez haya identificado la tipografía, busque información sobre ella y una imagen en donde se desplieguen los distintos caracteres. 
 
-- recortar gráficos figurativos, no figurativos y mixtos que se estén usando en la infografía.
+- recortar gráficos figurativos, no figurativos y/o mixtos que se estén usando en la infografía.
 
 Una vez hecho este trabajo, completen [la página web que encuentra preparada en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-2/clase-05/).
 
