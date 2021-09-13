@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" />
+        <title>Hola mundo</title>
+    </head>
+    <body>
+        <div class="container my-5">
+            <div class="row">
+                <div class="col-md-10 mx-auto">
+                    <h1>Ejemplo</h1>
+                    <p class="lead">Para comprender las ventajas de manipular el DOM con JavaScript, podemos crear una <a href="https://getbootstrap.com/docs/5.1/content/tables/">tabla</a> a partir de variables</p>
+                    <p>
+                        También podemos aprovechar los
+                        <a href="https://www.censo2017.cl/descargas/home/sintesis-de-resultados-censo2017.pdf">datos en Síntesis de Resultados Censo 2017 (pág. 8)</a> y el componente <a href="https://getbootstrap.com/docs/5.1/components/progress/">progress de Bootstrap</a> para poner barras dentro de celdas.
+                    </p>
+                    <p class="fw-bold">Primero veamos una <a href="https://getbootstrap.com/docs/5.1/content/tables/">tabla</a> construída "a mano":</p>
+
+                    <table class="table my-5">
+                        <thead>
+                            <tr>
+                                <th scope="col">Región</th>
+                                <th scope="col">Población <i class="bi bi-square-fill text-primary"></i> urbana y <i class="bi bi-square-fill text-success"></i> rural</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">Arica y Parinacota</th>
+                                <td>
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" style="width: 92%;" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100">92%</div>
+                                        <div class="progress-bar bg-success" role="progressbar" style="width: 8%;" aria-valuenow="8" aria-valuemin="0" aria-valuemax="100">8%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Tarapacá</th>
+                                <td>
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" style="width: 94%;" aria-valuenow="94" aria-valuemin="0" aria-valuemax="100">94%</div>
+                                        <div class="progress-bar bg-success" role="progressbar" style="width: 6%;" aria-valuenow="6" aria-valuemin="0" aria-valuemax="100">6%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Antofagasta</th>
+                                <td>
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" style="width: 94%;" aria-valuenow="94" aria-valuemin="0" aria-valuemax="100">94%</div>
+                                        <div class="progress-bar bg-success" role="progressbar" style="width: 6%;" aria-valuenow="6" aria-valuemin="0" aria-valuemax="100">6%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <p class="fw-bold">Ahora veamos una <a href="https://getbootstrap.com/docs/5.1/content/tables/">tabla</a> construída con una variable <code>poblaciones</code>, que contiene un arreglo con varios objetos:</p>
+
+                    <table class="table my-5">
+                        <thead>
+                            <tr>
+                                <th scope="col">Región</th>
+                                <th scope="col">Población <i class="bi bi-square-fill text-primary"></i> urbana y <i class="bi bi-square-fill text-success"></i> rural</th>
+                            </tr>
+                        </thead>
+                        <tbody id="magia"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+
+        <script>
+            var poblaciones = [
+                { region: "Arica y Parinacota", urbana: 91.7, rural: 8.3 },
+                { region: "Tarapacá", urbana: 93.8, rural: 6.2 },
+                { region: "Antofagasta", urbana: 94.1, rural: 5.9 },
+                { region: "Coquimbo", urbana: 81.2, rural: 18.9 },
+                { region: "Valparaiso", urbana: 91.0, rural: 9.0 },
+                { region: "Metropolitana", urbana: 96.3, rural: 3.7 },
+            ];
+
+            //agrega más objetos en el arreglo copiando los datos en Síntesis de Resultados Censo 2017 (pág. 8) https://www.censo2017.cl/descargas/home/sintesis-de-resultados-censo2017.pdf
+
+            poblaciones.forEach(repite);
+            function repite(x) {
+                magia.innerHTML +=
+                    '<tr><th scope="row">' +
+                    x.region +
+                    '</th><td><div class="progress"><div class="progress-bar" role="progressbar" style="width:' +
+                    Math.round(x.urbana) +
+                    '%" aria-valuenow="' +
+                    Math.round(x.urbana) +
+                    '" aria-valuemin="0" aria-valuemax="100">' +
+                    x.urbana +
+                    '%</div><div class="progress-bar bg-success" role="progressbar" style="width:' +
+                    Math.round(x.rural) +
+                    '%" aria-valuenow="' +
+                    Math.round(x.rural) +
+                    '" aria-valuemin="0" aria-valuemax="100">' +
+                    x.rural +
+                    "%</div></td></tr>";
+            }
+        </script>
+    </body>
+</html>
