@@ -63,6 +63,21 @@ Para su análisis, tiene que:
 
 Una vez hecho este trabajo, completen [la página web que encuentra preparada en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-2/clase-05/).
 
+
+- - - - - - - - - -
+
+### Tarea
+
+Revisar, en el sitio web de [Bootstrap](https://getbootstrap.com/):
+
+- [Accordion](https://getbootstrap.com/docs/5.1/components/accordion/)
+
+- [Carousel](https://getbootstrap.com/docs/5.1/components/carousel/)
+
+- [Modal](https://getbootstrap.com/docs/5.1/components/modal/)
+
+Dejé la página del [ejemplo.html](https://profesorfaco.github.io/dno075-2021-2/clase-05/ejemplo.html) editada, para que puedan revisar algo más.
+
 - - - - - - - - - - 
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-04) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-06) 
