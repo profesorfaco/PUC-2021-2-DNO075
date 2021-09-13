@@ -68,7 +68,7 @@ Una vez hecho este trabajo, completen [la página web que encuentra preparada en
 
 ### Tarea
 
-Revisar, en el sitio web de [Bootstrap](https://getbootstrap.com/):
+En el sitio web de [Bootstrap](https://getbootstrap.com/), recuerden revisar:
 
 - [Accordion](https://getbootstrap.com/docs/5.1/components/accordion/)
 
