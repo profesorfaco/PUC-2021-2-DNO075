@@ -16,7 +16,13 @@ Boehm, G. (2020). ¿Más allá del lenguaje? Apuntes sobre la lógica de las im�
 
 Para aplicar lo aprendido usaremos el Índice de Calidad de Vida Urbana (ICVU) elaborado por la Cámara Chilena de la Construcción en conjunto con el Instituto de Estudios Urbanos y Territoriales de la Pontificia Universidad Católica de Chile.
 
-Aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-07/), tienen que ofrecer dos gráficos:
+Aprovechando los datos en 
+
+- https://estudiosurbanos.uc.cl/10-anos-calidad-de-vida-urbana-icvu-2020/
+
+- https://cchc.cl/centro-de-informacion/publicaciones/publicaciones-icvu/
+
+y los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-07/), tienen que preparar una página con dos gráficos:
 
 1) Un gráfico figurativo, que podrían desarrollar con:
 
@@ -26,13 +32,7 @@ Aprovechando los [archivos compartidos en esta carpeta de repositorio](https://p
 
 - https://www.datawrapper.de/
 
-2) Un gráfico mixto donde podrán editar una [imagen vectorial](https://helpx.adobe.com/es/photoshop-elements/key-concepts/raster-vector.html) con la que se definen comunas sobre una foto satelital.
-
-Pueden encontrar información sobre el ICVU en:
-
-- https://estudiosurbanos.uc.cl/10-anos-calidad-de-vida-urbana-icvu-2020/
-
-- https://cchc.cl/centro-de-informacion/publicaciones/publicaciones-icvu/
+2) Un gráfico mixto donde podrán editar una [imagen vectorial](https://helpx.adobe.com/es/photoshop-elements/key-concepts/raster-vector.html) con la que se definen comunas sobre una foto satelital. Pueden cambiar este gráfico manteniendo su condición mixta: El mapa de la región metropolitana podría simplificarse, como está simplificado el mapa de una parte de Asia en https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/
 
 - - - - - - - -
 
