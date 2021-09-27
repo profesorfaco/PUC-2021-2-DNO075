@@ -32,7 +32,7 @@ y los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco
 
 - https://www.datawrapper.de/
 
-2) Un gráfico mixto donde podrán editar una [imagen vectorial](https://helpx.adobe.com/es/photoshop-elements/key-concepts/raster-vector.html) con la que se definen comunas sobre una foto satelital. Pueden cambiar este gráfico manteniendo su condición mixta: El mapa de la región metropolitana podría simplificarse, como está simplificado el mapa de una parte de Asia en https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/
+2) Un gráfico mixto donde podrán editar una [imagen vectorial](https://helpx.adobe.com/es/photoshop-elements/key-concepts/raster-vector.html) con la que se definen comunas sobre una foto satelital. Pueden cambiar este gráfico manteniendo su condición mixta. Por ejemplo, la vista satelital podría simplificarse por mapas simplificados como los que se usan en https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/
 
 - - - - - - - -
 
