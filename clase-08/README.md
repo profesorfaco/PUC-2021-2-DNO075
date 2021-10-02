@@ -42,7 +42,7 @@ Con la suma de sus puntos de la semana recién pasada, se cerró **la primera no
 
 - - - - - - - - - - - - -
 
-**La clase de hoy es la 8, por lo que corresponde resolver un trabajo cuya evaluación se transformará en nota.**
+**La clase de hoy es la 8, por lo que corresponde resolver un trabajo cuya evaluación se transformará en nota, y cuenta con el horario de la clase para resolverlo (hasta las 12.50 hrs.)**
 
 El trabajo consiste en hacer una adaptación parcial de una infografía digital publicada por el [South China Morning Post](https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/).
 
