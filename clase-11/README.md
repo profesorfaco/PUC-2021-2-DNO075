@@ -2,11 +2,11 @@
 
 ###  Clase 11 → 25/10/2021
 
-Esta clase abre una tercera y última etapa en este Optativo, una etapa que se enfoca en comprobar o demostrar el aprovechamiento en los estudios con el desarrollo grupal de una infografía digital sobre un sub-tema. Por ejemplo: 
+Esta clase abre una tercera y última etapa en este Optativo, una etapa que se enfoca en comprobar o demostrar el aprovechamiento en los estudios con el desarrollo grupal de una infografía digital sobre un sub-tema real. Por ejemplo: 
 
 > Chile es un país expuesto de manera permanente a amenazas de origen tanto natural como antrópico, las que se han desencadenado en un sinnúmero de desastres, tales como terremotos, tsunamis, erupciones volcánicas, sequías e incendios forestales, etc. - http://bcn.cl/2qkaz
 
-En este caso el tema son los desastres socionaturales en Chile, y el sub-tema de cada grupo podría ser una amenaza de origen tanto natural como antrópico: grupo terremoto, grupo volcanes, grupo incendios forestales, etc.
+En este caso el tema son los desastres socionaturales en Chile. El el sub-tema de cada grupo podría ser una amenaza de origen tanto natural como antrópico: grupo terremoto, grupo volcanes, grupo incendios forestales, etc.
 
 - - - - - - - - - -
 
