@@ -63,7 +63,7 @@ Cuentan con el horario de la clase para resolver este trabajo (hasta las 12.50 h
 
 #### Tarea
 
-Desde esta clase, la 8, saltaremos a la 11. La razón: Próximo lunes es feriado (habría sido clase 9) y el lunes que sigue es parte de la semana de receso (habría sido clase 10). Los semetres tienen 18 clases, y nosotros usaremos la última para recorrección del trabajo final. O sea, la entrega final será en la clase 17. Si volvemos a la clase 11, volvemos con evidencia de lo poquito que queda.
+**Desde esta clase, la 8, saltaremos a la 11. La razón**: Próximo lunes es feriado (habría sido clase 9) y el lunes que sigue es parte de la semana de receso (habría sido clase 10). Los semetres tienen 18 clases, y nosotros usaremos la última para recorrección del trabajo final. O sea, la entrega final será en la clase 17. Si volvemos a la clase 11, volvemos con evidencia de lo poquito que queda.
 
 A la vuelta definiremos grupos y temáticas para el trabajo final. **La tarea es adelatar conversaciones sobre organizaciones de grupos y posibles ideas**. Para sus conversaciones, por favor consideren:
 
