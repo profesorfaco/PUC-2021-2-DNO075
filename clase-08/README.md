@@ -48,9 +48,9 @@ Su adaptación será evaluada con la siguiente pauta de cotejo:
 
 | Criterio | Descripción          | NL | ML | L | CL |
 |:--------:|:---------------------|:-----:|:-----:|:-----:|:-----:|
-| 1        | Traduce todos los contenidos al castellano cuidando el sentido de la redacción, puede usar [DeepL Translate](https://www.deepl.com/translator)  | 0 | 1 | 1.5 | 2 |
+| 1        | Traduce todos los contenidos al castellano cuidando el sentido de la redacción, para traducir puede usar [DeepL Translate](https://www.deepl.com/translator)  | 0 | 1 | 1.5 | 2 |
 | 2        | Reproduce cada gráfico SVG del original que es rescatado en la plantilla | 0 | 1 | 1.5 | 2 |
-| 3        | En su trabajo con el código fuente, cuida el orden aprovechando servicios de [SVG Minifier](https://www.svgminify.com/) y [Web Formatter](https://webformatter.com/) | 0 | 1 | 1.5 | 2 |
+| 3        | Presenta un código fuente (SVG, HTML) ordenado, para ordenar puede usar servicios de [SVG Minifier](https://www.svgminify.com/) y [Web Formatter](https://webformatter.com/) | 0 | 1 | 1.5 | 2 |
 | —        | Punto base | 1  | 1 | 1 | 1   |
 
 Para su adaptación tienen que aprovechar:: 
