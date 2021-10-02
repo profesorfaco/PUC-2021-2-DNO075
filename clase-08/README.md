@@ -18,17 +18,19 @@ Con la suma de sus puntos de la semana recién pasada, se cerró **la primera no
 | 10 | SIVIA GARRIDO | — | — |
 | 11 | VERÓNICA GATICA | https://github.com/Verogatica | 7,0 |
 | 12 | MIRKO GONZÁLEZ | https://github.com/MirkoGonzalez | 7,0 |
-| 13 | FRANCISCA GUERRERO | https://github.com/Fcaguep | 5,3 |
-| 14 | Ma. FRANCISCA IBÁÑEZ | https://github.com/franibanezm | 7,0 |
+| 13 | FRANCISCA GUERRERO | https://github.com/Fcaguep | 7.0 |
+| 14 | Ma. FRANCISCA IBÁÑEZ | https://github.com/franibanezm |5,3 |
 | 15 | JOSEFINA JARA | https://github.com/josefinaijb | 7,0 |
 | 16 | HELENA MARTÍNEZ | https://github.com/helena-martinez | 7,0 |
-| 17 | MARGARITA MATTE | https://github.com/Mar-garita1 | 3,5 |
+| 17 | MARGARITA MATTE | https://github.com/Mar-garita1 | 7,0 |
 | 18 | CONSTANZA MONTERO | https://github.com/cpmontero | 7,0 |
 | 19 | TERESA MUÑOZ | https://github.com/teremunozs | 7,0 |
 | 20 | MARTÍN PASTENES | https://github.com/martinpastenes | 7,0 |
 | 21 | CONSTANZA VALDOVINOS | https://github.com/constanzavaldovinos | 7,0 |
 | 22 | BENJAMÍN VICENTE | https://github.com/benjavicente | 7,0 |
 | 23 | NATALIA WANG | https://github.com/natywang | 7,0 |
+
+- - - - - - - - - - - - -
 
 **Quedan 3 notas más:** 
 
