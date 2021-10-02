@@ -44,7 +44,7 @@ Con la suma de sus puntos de la semana recién pasada, se cerró **la primera no
 
 **La clase de hoy es la 8, por lo que corresponde resolver un trabajo cuya evaluación se transformará en nota.**
 
-El trabajo consiste en hacer una adaptación parcial de una infografía digital publicada en el South China Morning Post.
+El trabajo consiste en hacer una adaptación parcial de una infografía digital publicada por el [South China Morning Post](https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/).
 
 Su adaptación será evaluada con la siguiente pauta de cotejo: 
 
@@ -59,7 +59,7 @@ Para su adaptación tienen que aprovechar::
 
 - la plantilla: https://profesorfaco.github.io/dno075-2021-1/clase-8/
 
-- el código fuente de la página original: Revisar, seleccionar, copiar, pegar y editar las líneas que sean necesarias… Recuerda que puedes usar el `view-source:https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/index.html` para revisarlo.
+- el código fuente de la página original: Revisar, seleccionar, copiar, pegar y editar las líneas que sean necesarias… Recuerda que puedes usar el `view-source:https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/` para revisarlo.
 
 - - - - - - - - - - - - -
 
