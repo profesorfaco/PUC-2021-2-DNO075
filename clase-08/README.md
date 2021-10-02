@@ -67,9 +67,9 @@ Cuentan con el horario de la clase para resolver este trabajo (hasta las 12.50 h
 
 En la clase 11 definiremos grupos y temas para el trabajo final. **La tarea es adelantar conversaciones sobre agrupaciones y temas**. Para sus conversaciones, por favor consideren dos cosas:
 
-1) Evitar que los grupos estén compuestos 100% por estudiantes de diseño con intereses y habilidades similares, porque necesitamos que se complementen en tareas diversas, de investigación, redacción, bocetaje, dibujo y programación (si cada integrante es fuerte y débil en lo mismo, el grupo queda cojo).
+1 - Evitar que los grupos estén compuestos 100% por estudiantes de diseño con intereses y habilidades similares, porque necesitamos que se complementen en tareas diversas, de investigación, redacción, bocetaje, dibujo y programación (si cada integrante es fuerte y débil en lo mismo, el grupo queda cojo).
 
-2) Pensar en temas que puedan tratarse desde sub-temas; pueden ver el ejemplo al principio del [README.md de clase 11](https://github.com/profesorfaco/dno075-2021-2/blob/main/clase-11/README.md#clase-11--25102021). También pueden considerar que el semestre recién pasado el tema fue "Fauna Endémica de Chile", donde algunos sub-temas fueron:
+2 - Pensar en temas que puedan tratarse desde sub-temas; pueden ver el ejemplo al principio del [README.md de clase 11](https://github.com/profesorfaco/dno075-2021-2/blob/main/clase-11/README.md#clase-11--25102021). También pueden considerar que el semestre recién pasado el tema fue "Fauna Endémica de Chile", donde algunos sub-temas fueron:
 
 - https://arana-pollito.github.io/Implementacion/
 - https://aves-de-juan-fernandez.github.io/Picaflor-Entrega-Final/
