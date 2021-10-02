@@ -69,7 +69,7 @@ A la vuelta definiremos grupos y temáticas para el trabajo final. **La tarea es
 
 Evitar que los grupos estén compuestos 100% por estudiantes de diseño con intereses y habilidades similares, porque necesitamos que se complementen en tareas diversas, de investigación, redacción, bocetaje, dibujo y programación (si cada integrante es fuerte y débil en lo mismo, el grupo queda cojo).
 
-Piensen en temas que puedan tener una denominación general con distintas bajadas; pueden ver el ejemplo al principio del [README.md de clase 11](https://github.com/profesorfaco/dno075-2021-2/blob/main/clase-11/README.md#clase-11--25102021). También pueden consideren que el semestre recién pasado el tema fue Fauna Endémica de Chile, donde algunos sub-temas fueron:
+Piensen en temas que puedan tener una denominación general con distintas bajadas; pueden ver el ejemplo al principio del [README.md de clase 11](https://github.com/profesorfaco/dno075-2021-2/blob/main/clase-11/README.md#clase-11--25102021). También pueden considerar que el semestre recién pasado el tema fue Fauna Endémica de Chile, donde algunos sub-temas fueron:
 
 - https://arana-pollito.github.io/Implementacion/
 - https://aves-de-juan-fernandez.github.io/Picaflor-Entrega-Final/
