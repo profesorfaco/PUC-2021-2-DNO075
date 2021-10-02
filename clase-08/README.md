@@ -61,4 +61,27 @@ Cuentan con el horario de la clase para resolver este trabajo (hasta las 12.50 h
 
 - - - - - - - - - - - - -
 
+#### Tarea
+
+Desde esta clase, la 8, saltaremos a la 11. La razón: Próximo lunes es feriado (habría sido clase 9) y el lunes que sigue es parte de la semana de receso (habría sido clase 10). Los semetres tienen 18 clases, y nosotros usaremos la última para recorrección del trabajo final. O sea, la entrega final será en la clase 17. Si volvemos a la clase 11, volvemos con evidencia de lo poquito que queda.
+
+A la vuelta definiremos grupos y temáticas para el trabajo final. **La tarea es adelatar conversaciones sobre organizaciones de grupos y posibles ideas**. Para sus conversaciones, por favor consideren:
+
+Evitar que los grupos estén compuestos 100% por estudiantes de diseño con intereses y habilidades similares, porque necesitamos que se complementen en tareas diversas, de investigación, redacción, bocetaje, dibujo y programación (si cada integrante es fuerte y débil en lo mismo, el grupo queda cojo).
+
+Piensen en temas que puedan tener una denominación general con distintas bajadas; pueden ver el ejemplo al principio del [README.md de clase 11](https://github.com/profesorfaco/dno075-2021-2/blob/main/clase-11/README.md#clase-11--25102021). También pueden consideren que el semestre recién pasado el tema fue Fauna Endémica de Chile, donde algunos sub-temas fueron:
+
+- https://arana-pollito.github.io/Implementacion/
+- https://aves-de-juan-fernandez.github.io/Picaflor-Entrega-Final/
+- https://zorrodechiloe-infodigital.github.io/Zorro_de_Chiloe/
+
+Y el semestre ante-pasado el tema fue "Conflictos Socioambientales":
+
+- https://personas-de-sacrificio.github.io/examen/
+- https://paltorcas.github.io/examen/
+- https://litidos.github.io/Examen/
+
+- - - - - - - - - - - - -
+
+
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-07) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-11) 
