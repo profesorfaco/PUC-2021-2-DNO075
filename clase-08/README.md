@@ -49,7 +49,7 @@ Cuentan con el horario de la clase para resolver este trabajo (hasta las 12.50 h
 | Criterio | Descripción          | NL | ML | L | CL |
 |:--------:|:---------------------|:-----:|:-----:|:-----:|:-----:|
 | 1        | Traduce todos los contenidos al castellano cuidando el sentido de la redacción; para traducir puede usar [DeepL Translate](https://www.deepl.com/translator)  | 0 | 1 | 1.5 | 2 |
-| 2        | Reproduce cada gráfico SVG que es simulado en la plantilla, aprovechando al máximo el material original (también tiene que traducir al castellano lo que en los gráficos aparezca en inglés, ej: cambiar Seoul por Seúl, Tokyo por Tokio, Airport por Aeropuerto, etc.) | 0 | 1 | 1.5 | 2 |
+| 2        | Reproduce cada gráfico SVG que es simulado en la plantilla, aprovechando al máximo el material original (también se traduce al castellano el texto en los gráficos, ej: cambiar Seoul por Seúl, Tokyo por Tokio, Airport por Aeropuerto, etc.) | 0 | 1 | 1.5 | 2 |
 | 3        | Presenta un código fuente ordenado; para ordenar puede usar [SVG Minifier](https://www.svgminify.com/) y [Web Formatter](https://webformatter.com/) | 0 | 1 | 1.5 | 2 |
 | —        | Punto base | 1  | 1 | 1 | 1   |
 
