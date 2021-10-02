@@ -53,7 +53,7 @@ Cuentan con el horario de la clase para resolver este trabajo (hasta las 12.50 h
 | 3        | Presenta un código fuente ordenado; para ordenar puede usar [SVG Minifier](https://www.svgminify.com/) y [Web Formatter](https://webformatter.com/) | 0 | 1 | 1.5 | 2 |
 | —        | Punto base | 1  | 1 | 1 | 1   |
 
-Su adaptación tiene que aprovechar: 
+**Para su adaptación, use:**
 
 - la plantilla: https://profesorfaco.github.io/dno075-2021-2/clase-8/ (pendiente hasta el inicio de la clase)
 
