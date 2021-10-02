@@ -57,7 +57,7 @@ Su adaptación será evaluada con la siguiente pauta de cotejo:
 
 Para su adaptación tienen que aprovechar:: 
 
-- la plantilla: https://profesorfaco.github.io/dno075-2021-1/clase-8/
+- la plantilla: https://profesorfaco.github.io/dno075-2021-2/clase-8/
 
 - el código fuente de la página original: Revisar, seleccionar, copiar, pegar y editar las líneas que sean necesarias… Recuerda que puedes usar el `view-source:https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/` para revisarlo.
 
