@@ -42,14 +42,14 @@ Con la suma de sus puntos de la semana recién pasada, se cerró **la primera no
 
 - - - - - - - - - - - - -
 
-**La clase de hoy es la 8, por lo que corresponde resolver un trabajo cuya evaluación se transformará en nota. El trabajo consiste en hacer una adaptación parcial de una infografía digital publicada por el [South China Morning Post](https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/)**.
+**La clase de hoy es la 8, por lo que corresponde resolver un trabajo INDIVIDUAL evaluado. El trabajo consiste en hacer una adaptación parcial de una infografía digital publicada por el [South China Morning Post](https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/)**.
 
 Cuentan con el horario de la clase para resolver este trabajo (hasta las 12.50 hrs.). El resultado que cada estudiante publique en su cuenta de GitHub será evaluado con la siguiente pauta de cotejo:
 
 | Criterio | Descripción          | NL | ML | L | CL |
 |:--------:|:---------------------|:-----:|:-----:|:-----:|:-----:|
 | 1        | Traduce todos los contenidos al castellano cuidando el sentido de la redacción; para traducir puede usar [DeepL Translate](https://www.deepl.com/translator)  | 0 | 1 | 1.5 | 2 |
-| 2        | Reproduce cada gráfico SVG que es simulado en la plantilla, aprovechando al máximo el material original (también se traduce al castellano el texto en los gráficos, ej: cambiar Seoul por Seúl, Tokyo por Tokio, Airport por Aeropuerto, etc.) | 0 | 1 | 1.5 | 2 |
+| 2        | Reproduce cada gráfico SVG que es simulado en la [plantilla de base](https://profesorfaco.github.io/dno075-2021-2/clase-8/), aprovechando al máximo el material en la infografía original (también se traduce al castellano el texto en los gráficos, ej: cambiar Seoul por Seúl, Tokyo por Tokio, Airport por Aeropuerto, etc.) | 0 | 1 | 1.5 | 2 |
 | 3        | Presenta un código fuente ordenado; para ordenar puede usar [SVG Minifier](https://www.svgminify.com/) y [Web Formatter](https://webformatter.com/) | 0 | 1 | 1.5 | 2 |
 | —        | Punto base | 1  | 1 | 1 | 1   |
 
