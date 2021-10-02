@@ -42,11 +42,9 @@ Con la suma de sus puntos de la semana recién pasada, se cerró **la primera no
 
 - - - - - - - - - - - - -
 
-**La clase de hoy es la 8, por lo que corresponde resolver un trabajo cuya evaluación se transformará en nota, y cuentan con el horario de la clase para resolverlo (hasta las 12.50 hrs.)**
+**La clase de hoy es la 8, por lo que corresponde resolver un trabajo cuya evaluación se transformará en nota. El trabajo consiste en hacer una adaptación parcial de una infografía digital publicada por el [South China Morning Post](https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/)**.
 
-El trabajo consiste en hacer una adaptación parcial de una infografía digital publicada por el [South China Morning Post](https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/).
-
-Su adaptación será evaluada con la siguiente pauta de cotejo: 
+Cuentan con el horario de la clase para resolver este trabajo (hasta las 12.50 hrs.). El resultado que cada estudiante publique en su cuenta de GitHub será evaluado con la siguiente pauta de cotejo:
 
 | Criterio | Descripción          | NL | ML | L | CL |
 |:--------:|:---------------------|:-----:|:-----:|:-----:|:-----:|
@@ -55,9 +53,9 @@ Su adaptación será evaluada con la siguiente pauta de cotejo:
 | 3        | Presenta un código fuente ordenado; para ordenar puede usar [SVG Minifier](https://www.svgminify.com/) y [Web Formatter](https://webformatter.com/) | 0 | 1 | 1.5 | 2 |
 | —        | Punto base | 1  | 1 | 1 | 1   |
 
-Para su adaptación tienen que aprovechar:: 
+Su adaptación tiene que aprovechar: 
 
-- la plantilla: https://profesorfaco.github.io/dno075-2021-2/clase-8/
+- la plantilla: https://profesorfaco.github.io/dno075-2021-2/clase-8/ (pendiente hasta el inicio de la clase)
 
 - el código fuente de la página original: Revisar, seleccionar, copiar, pegar y editar las líneas que sean necesarias… Recuerda que puedes usar el `view-source:https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/` para revisarlo.
 
