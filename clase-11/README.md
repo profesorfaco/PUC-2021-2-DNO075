@@ -6,7 +6,7 @@ Esta clase abre una tercera y última etapa en este Optativo, una etapa que se e
 
 > Chile es un país expuesto de manera permanente a amenazas de origen tanto natural como antrópico, las que se han desencadenado en un sinnúmero de desastres, tales como terremotos, tsunamis, erupciones volcánicas, sequías e incendios forestales, etc. - http://bcn.cl/2qkaz
 
-En este caso el tema son los desastres socionaturales en Chile. El el sub-tema de cada grupo podría ser una amenaza de origen tanto natural como antrópico: grupo terremotos, grupo tsuamis, grupo erupciones volcánicas, grupo sequías y grupo incendios forestales.
+En este caso el tema son los desastres socionaturales en Chile. El sub-tema de cada grupo podría ser una amenaza de origen tanto natural como antrópico: grupo terremotos, grupo tsuamis, grupo erupciones volcánicas, grupo sequías y grupo incendios forestales.
 
 - - - - - - - - - -
 
