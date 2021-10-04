@@ -1,0 +1,60 @@
+:root{
+  --bs-body-font-family: "Roboto", sans-serif;
+  --bs-body-font-weight: 300;
+}
+
+a {
+    color: #001443;
+    text-decoration: none;
+}
+a:hover {
+    color: #ffcc55;
+    text-decoration: underline;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+}
+h2,
+h3 {
+    font-size: 1rem;
+}
+
+h3 a{
+    font-weight: 700;
+}
+
+h4{
+    font-size: 0.9rem;
+}
+
+header h4 {
+    font-weight: 300;
+}
+header h4 a {
+    font-weight: 700;
+}
+
+h1 {
+    font-family: "Merriweather", serif;
+    font-size: 3.125rem;
+    font-weight: 700;
+}
+p.lead {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+address {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.035rem;
+}
+address a {
+    font-style: italic;
+}

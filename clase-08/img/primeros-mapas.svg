@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 700 700" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.wireframe{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<line class="wireframe" x1="0" x2="700" y1="0" y2="700"/>
+<line class="wireframe" x1="700" x2="0" y1="0" y2="700"/>
+<rect class="wireframe" width="700" height="700"/>
+</svg>
