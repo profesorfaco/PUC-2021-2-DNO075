@@ -2,15 +2,9 @@
 
 ### Clase 14 → 15/11/2021
 
-Hoy corresponde aprovechar su avance en el *layout* y la recolección de antecedentes en:
+Hoy corresponde aprovechar su avance para un trabajo de *sketching* que se recomienda **dividir en 3 etapas** y tomará un tiempo total aproximado de 2 horas:
 
-- https://graphics.reuters.com/
-
-- https://www.scmp.com/infographic/
-
-Con su recolección podrán inspirarse para un trabajo de *sketching* que se recomienda **dividir en 3 etapas** y tomará un tiempo total aproximado de 2 horas:
-
-1. Delimitar el desafío grupal: ¿Qué informar mediante gráfica? (basarse en el *layout* en Miro)
+1. Delimitar el desafío grupal: ¿Qué informar mediante gráfica?
 
 2. Cada integrante del grupo debe desarrollar un *sketch* respondiendo al desafío delimitado:
  
