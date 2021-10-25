@@ -8,10 +8,10 @@ Tenemos un tema de curso:
 
 El tema será abordado desde:
 
-- [Incendios forestales del 2017](https://github.com/InfoDigitalGrupo/Incendios_Forestales-)
-- [Falla de Ramón](https://github.com/fallasanramon-infografiadigital/entrega1)
-- [Erupción del Volcán Chaitén de 2008](https://github.com/Impacto-socioecologico/25-de-octubre)
-- [El Riñihuazo](https://github.com/Infografia-Digital/info-digital-11)
+- Grupo 1: [Incendios forestales del 2017](https://github.com/InfoDigitalGrupo/Incendios_Forestales-)
+- Grupo 2: [Falla de Ramón](https://github.com/fallasanramon-infografiadigital/entrega1)
+- Grupo 3: [Erupción del Volcán Chaitén del 2008](https://github.com/Impacto-socioecologico/25-de-octubre)
+- Grupo 4: [El Riñihuazo](https://github.com/Infografia-Digital/info-digital-11)
 
 En la clase de hoy, corresponde trabajar en:
 
@@ -20,6 +20,8 @@ En la clase de hoy, corresponde trabajar en:
 - **Calidad informativa**: la evidencia de un tema bien investigado, desplegado en función del medio (ver [referencias](https://github.com/profesorfaco/dno075-2021-2/blob/main/clase-13/README.md#referencias) más abajo).
 
 - **Recolección de antecedentes infográficos**: la selección de trabajos profesionales que puedan relacionarse con su tema, obtenidos desde: https://graphics.reuters.com/, https://www.scmp.com/infographic/ y otras fuentes relacionadas con prensa escrita contemporánea.
+
+Obtenga pantallazos de los antecedentes utilizando https://www.site-shot.com/, ajustando el *image size* al 25%. Con esto contará con imágenes que podrá incluir en el README.md de un nuevo repositorio de organización.
 
 - - - - - - - -
 
