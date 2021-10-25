@@ -2,12 +2,16 @@
 
 ### Clase 13 → 08/11/2021
 
-Tenemos un tema de curso, que son los desastres socionaturales en Chile, y tal tema será abordados desde: 
+Tenemos un tema de curso:
 
-- Incendios forestales del 2017 - https://github.com/InfoDigitalGrupo/Incendios_Forestales-
-- Falla de Ramón - https://github.com/fallasanramon-infografiadigital/entrega1
-- Erupción del Volcán Chaitén de 2008 - https://github.com/Impacto-socioecologico/25-de-octubre
-- El Riñuhuazo - https://github.com/Infografia-Digital/info-digital-11
+> Chile es un país expuesto de manera permanente a amenazas de origen tanto natural como antrópico, las que se han desencadenado en un sinnúmero de desastres, tales como terremotos, tsunamis, erupciones volcánicas, sequías e incendios forestales, etc. - http://bcn.cl/2qkaz
+
+El tema será abordado desde:
+
+- [Incendios forestales del 2017](https://github.com/InfoDigitalGrupo/Incendios_Forestales-)
+- [Falla de Ramón](https://github.com/fallasanramon-infografiadigital/entrega1)
+- [Erupción del Volcán Chaitén de 2008](https://github.com/Impacto-socioecologico/25-de-octubre)
+- [El Riñuhuazo](https://github.com/Infografia-Digital/info-digital-11)
 
 En la clase de hoy, corresponde trabajar:
 
