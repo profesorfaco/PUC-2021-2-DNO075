@@ -15,7 +15,7 @@ El tema será abordado desde:
 
 En la clase de hoy, corresponde trabajar en:
 
-- **Redacción linear**: el despliegue donde se escribe y se muestra - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
+- **Redacción linear**: el despliegue narrativo en el que se escribe y se muestra - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
 
 - **Calidad informativa**: la evidencia de un tema bien investigado, desplegado en función del medio (ver [referencias](https://github.com/profesorfaco/dno075-2021-2/blob/main/clase-13/README.md#referencias) más abajo).
 
