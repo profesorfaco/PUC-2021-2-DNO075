@@ -40,7 +40,7 @@ Desde esta clase los avances grupales se publicarán en **repositorios creado de
 
 ### Pero antes…
 
-Volvamos sobre la actividad de la clase pasada, [clase 8](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-08) para refrescar un poco la memoria en algo que podría ser muy útil: Reconocer "cómo se hizo", para replicarlo y luego adaptarlo.
+Volvamos sobre la actividad de la clase pasada, [clase 8](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-08), para refrescar un poco la memoria en algo que podría ser muy útil: Reconocer *cómo se hizo*, para replicarlo y luego adaptarlo.
 
 - - - - - - - - - - - - -
 
