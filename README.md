@@ -53,15 +53,15 @@ Cada estudiante debería contar con:
 
 **Clase 12 → 01/11/2021** → Feriado legal
 
-[Clase 13 → 08/11/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-13) → Investigación y redacción linear
+[Clase 13 → 08/11/2021](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-13) → Investigación y redacción linear
 
-[Clase 14 → 15/11/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-14) → Planificación de la infografía digital a través del boceto
+[Clase 14 → 15/11/2021](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-14) → Planificación de la infografía digital a través del boceto
 
-[Clase 15 → 22/11/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-15) → Implementación de la estructura adaptativa
+[Clase 15 → 22/11/2021](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-15) → Implementación de la estructura adaptativa
 
-[Clase 16 → 29/11/2020](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-16) → Implementación de la gráfica informativa
+[Clase 16 → 29/11/2020](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-16) → Implementación de la gráfica informativa
 
-[Clase 17 → 06/12/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-17) → Implementación de la infografía digital
+[Clase 17 → 06/12/2021](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-17) → Implementación de la infografía digital
 
 **Clase 18 → 13/12/2021** → Período de evaluación académica final
 
