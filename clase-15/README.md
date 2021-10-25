@@ -37,7 +37,7 @@ En caso hayan descuidado el peso de las imágenes en el trabajo de la clase pasa
 
 - https://squoosh.app/
 
-Agregando:
+Y agregar:
 
 - https://nbadiola.com/peso-ideal-fotografia-para-web/
 
