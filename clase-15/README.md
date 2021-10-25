@@ -21,6 +21,11 @@ En su decisión sobre colores:
 - recuerden que no todo es [armonía](https://www.fotonostra.com/grafico/compositivascolor.htm), también están los 7 contrastes de color ([Itten](https://drive.google.com/file/d/1SYMEvbFcgxNQb9_Vdy59teqOUoGuBv8t/view?usp=sharing)); y
 - cuiden el [*contrast ratio*](https://webaim.org/articles/contrast/) en los colores que podrían usar en figuras y fondos.
 
+**Con este trabajo, podrán avanzar en:**
+
+- Resolución gráfica: Con énfasis en el lo tipográfico y cromático.
+
+- Responsividad: Con énfasis en la redistribución de contenidos para dos casos de pantalla.
 
 - - - - - - - - - - -
 
