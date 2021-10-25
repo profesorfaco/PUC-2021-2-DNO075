@@ -2,7 +2,7 @@
 
 ### Clase 15 → 22/11/2021
 
-Corresponde continuar el trabajo, desde lo realizado [la sesión anterior](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-13): 
+Corresponde continuar el trabajo, desde lo realizado [la sesión anterior](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-14): 
 
 - un *layout* en Miro que sirvió para delimitar el desafío grupal; y
 
