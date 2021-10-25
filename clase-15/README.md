@@ -2,11 +2,9 @@
 
 ### Clase 15 → 22/11/2021
 
-Corresponde continuar el trabajo, desde lo realizado [la sesión anterior](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-14), en la que pudieron publicar varios bocetos.
+Hoy corresponde tomar el boceto grupal final de [la clase recién pasada](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-14) y generar dos versiones del mismo: Uno para pantalla de computador y otro para pantalla de dispositivo móvil. 
 
-Hoy corresponde generar un boceto definitivo en dos versiones (pantalla computador y pantalla dispositivo móvil). 
-
-**Luego podrán utilizar [una plantilla](https://profesorfaco.github.io/dno075-2021-2/clase-15/) que reciclamos de la clase 5**:
+**Con los bocetos listos, podrán utilizar [una plantilla](https://profesorfaco.github.io/dno075-2021-2/clase-15/) que reciclamos de la clase 5**:
 
 En esta ocasión, no deben capturar **colores, tipografías y gráficos** de un trabajo ajeno, sino que deben decidir los **propios**.
 
@@ -39,11 +37,11 @@ En caso hayan descuidado el peso de las imágenes en el trabajo de la clase pasa
 
 Y agregar:
 
+- https://bluekea.com/blog/fotografia/cual-es-la-resolucion-correcta-para-fotografia-en-web 
+
 - https://nbadiola.com/peso-ideal-fotografia-para-web/
 
-- https://www.espacios.media/guia-definir-optimizar-imagenes/ 
-
-- https://bluekea.com/blog/fotografia/cual-es-la-resolucion-correcta-para-fotografia-en-web 
+- https://www.adslzone.net/como-se-hace/photoshop/guardar-imagen-para-web/
 
 **Es que si ustedes construyen algo para la Web con imágenes de peso excesivo: Están abusando de la transferencia de datos en la conexión a Internet de cada visitante**. Esta transferencia puede demorar, y en la demora la imagen no se carga. Luego, quien visita lo construído se decepciona porque no ve nada y en cosa de segundos puede retirarse a otro lugar:
 
