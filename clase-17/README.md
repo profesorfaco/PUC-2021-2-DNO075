@@ -18,4 +18,4 @@
 
 - - - - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-14)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-16)
