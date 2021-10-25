@@ -10,7 +10,7 @@ Corresponde continuar el trabajo, desde lo realizado [la sesión anterior](https
 
 En sus dos versiones (grande y chica), el *sketch* está dividido en tres partes. Optimicen cada parte para que pese menos de 200kb.
 
-**Luego podrán utilizar una plantilla que reciclamos de la clase [clase 5](https://profesorfaco.github.io/dno075-2021-2/clase-05/)**:
+**Luego podrán utilizar [una plantilla](https://profesorfaco.github.io/dno075-2021-2/clase-15/) que reciclamos de la clase 5**:
 
 En esta ocasión, no deben capturar **colores, tipografías y gráficos** de un trabajo ajeno, sino que deben decidir los **propios**.
 
