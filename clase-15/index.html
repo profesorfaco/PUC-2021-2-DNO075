@@ -5,65 +5,57 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous" />
         <title>Reemplaza este título que se muestra en la ventana de tu navegador</title>
-        <link rel="preconnect" href="https://fonts.gstatic.com" />
-        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital@0;1&display=swap" rel="stylesheet" />
-        <style>
-            :root {
-                --bs-font-sans-serif: "DM Sans", sans-serif;
-            }
-            :hover {
-                transition: all ease 0.5s;
-            }
-            * {
-                font-weight: 300;
-            }
-            header p {
-                text-align: justify;
-            }
-            header p.lead {
-                line-height: 1.6;
-            }
-            .card,
-            .card-img-top {
-                border: none;
-                border-radius: 0 0;
-            }
-            .carousel-item h4, .carousel-item p {
-                letter-spacing: 0.05rem;
-                text-shadow: 0 0 5px rgba(0,0,0,0.5);
-            } 
-        </style>
     </head>
+
     <body>
-        <header class="container">
-            <div class="row py-5">
-                <div class="col-12 col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
-                    <h1 class="mb-3 mt-5 text-center">Reemplaza este título</h1>
-
-                    <h2 class="fs-6 mb-5 text-center text-uppercase">REEMPLAZA ESTE SUBTÍTULO CON TU NOMBRE Y APELLIDO</h2>
-
-                    <p class="lead">
-                        Aquí va la bajada (un sumario del asunto con elementos que sirven de gancho de lectura; ojalá un solo párrafo). En este y todos los reemplazos, respeta los colores del código fuente en tu editor. Los colores son
-                        indicaciones.
-                    </p>
-
-                    <p>Reemplaza este párrafo con un texto que complemente a la bajada. Puedes extender este párrafo hasta las doscientas palabras.</p>
-
-                    <img src="img/infografia.png" class="w-100 shadow my-4 d-none d-md-block" alt="describir la infografía" />
-
-                    <img src="img/infografia-sm.png" class="w-100 shadow my-4 d-md-none" alt="describir la infografía" />
+        <header class="container-fluid py-5">
+            <div class="row">
+                <div class="col text-center py-5">
+                    <h2 class="fs-6 text-uppercase">Vulnerabilidades y Desastres Socionaturales en Chile</h2>
+                    <h1 class="fs-2">REEMPLAZAR CON SU TEMA</h1>
                 </div>
             </div>
         </header>
+
+        <section class="container pb-5">
+            <div class="row">
+                <div class="col-sm-10 col-md-8 mx-auto">
+                    <p class="lead">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel mi orci. Aliquam erat volutpat. Vestibulum id lorem mattis, malesuada eros et, facilisis elit. Donec mollis odio eu elit convallis posuere. Vivamus
+                        id est quis velit tincidunt fringilla. Pellentesque finibus a neque et volutpat. Fusce nec tempor nunc. Proin eget molestie felis. Integer ac pretium metus, nec ornare diam. Integer ac neque vel erat porta fermentum
+                        quis eget mauris. Curabitur rhoncus nibh sit amet placerat posuere.
+                    </p>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel mi orci. Aliquam erat volutpat. Vestibulum id lorem mattis, malesuada eros et, facilisis elit. Donec mollis odio eu elit convallis posuere. Vivamus
+                        id est quis velit tincidunt fringilla. Pellentesque finibus a neque et volutpat. Fusce nec tempor nunc. Proin eget molestie felis. Integer ac pretium metus, nec ornare diam. Integer ac neque vel erat porta fermentum
+                        quis eget mauris. Curabitur rhoncus nibh sit amet placerat posuere.
+                    </p>
+
+                    <div class="shadow-sm my-5">
+                        <img src="img/infografia.png" class="w-100 my-4 d-none d-md-block" alt="describir la infografía" />
+
+                        <img src="img/infografia-sm.png" class="w-100 my-4 d-md-none" alt="describir la infografía" />
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <main class="container-fluid bg-light">
             <div class="row py-5">
                 <div class="col-sm-11 mx-auto py-3">
                     <!--la paleta-->
-                    <h3 class="text-center">Colores</h3>
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20" class="shadow-sm mt-3 mb-5">
-                        <g id="colores"></g>
-                    </svg>
+                    <h3 class="text-center pt-1 pb-3">Colores</h3>
+
+                    <div class="card shadow-sm">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 25" class="card-img-top">
+                            <g id="colores"></g>
+                        </svg>
+                        <div class="card-body">
+                            <h4 class="card-title">Reemplaza con un nombre</h4>
+                            <p class="card-text">Reemplaza con una descripción breve.</p>
+                        </div>
+                    </div>
+
                     <!--las fuentes-->
                     <h3 class="text-center pt-5 pb-1">Tipografías</h3>
                     <div class="row mt-2 mb-4 g-3">
@@ -107,12 +99,12 @@
         <script>
             // Reemplaza los colores dentro del paréntesis cuadrado, respetando las comillas.
             // Si necesitas que un color ocupe más espacio en la paleta: debes repetirlo.
-            var colores = ["#333333", "#777777", "#AAAAAA", "#CCCCCC", "#CCCCCC", "#EEEEEE", "#FFFFFF", "#FFFFFF", "#FFFFFF"];
+            var colores = ["#333333", "#777777", "#AAAAAA", "#CCCCCC", "#CCCCCC", "#EEEEEE", "#222", "#222", "#222"];
             // No reemplaces nada de lo que sigue.
             var n = colores.length;
             var w = 100 / n;
             for (var x = 0; x < n; x++) {
-                document.getElementById("colores").innerHTML += '<rect width="' + w + '" height="20" x="' + x * w + '" y="0" fill="' + colores[x] + '" stroke="' + colores[x] + '"/>';
+                document.getElementById("colores").innerHTML += '<rect width="' + w + '" height="25" x="' + x * w + '" y="0" fill="' + colores[x] + '" stroke="' + colores[x] + '"/>';
             }
         </script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
