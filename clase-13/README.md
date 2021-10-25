@@ -15,11 +15,11 @@ El tema será abordado desde:
 
 En la clase de hoy, corresponde trabajar en:
 
-- **Redacción linear**: Los grupos definen el despliegue linear desde pares "escribir y mostrar" - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
+- **Redacción linear**: el despliegue donde se escribe y se muestra - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
 
-- **Calidad informativa**: Dando evidencia de un tema bien investigado, los grupos organizan tales pares en función del medio (ver [referencias](https://github.com/profesorfaco/dno075-2021-2/blob/main/clase-13/README.md#referencias) más abajo).
+- **Calidad informativa**: la evidencia de un tema bien investigado, desplegado en función del medio (ver [referencias](https://github.com/profesorfaco/dno075-2021-2/blob/main/clase-13/README.md#referencias) más abajo).
 
-- **Recolección de antecedentes infográficos**: Seleccionan trabajos profesionales que puedan relacionarse con su tema. Se recomienda obtener los trabajos desde: https://graphics.reuters.com/, https://www.scmp.com/infographic/, http://infografias.elmercurio.com/ y otras fuentes relacionadas con prensa escrita contemporánea.
+- **Recolección de antecedentes infográficos**: la selección de trabajos profesionales que puedan relacionarse con su tema, obtenidos desde: https://graphics.reuters.com/, https://www.scmp.com/infographic/ y otras fuentes relacionadas con prensa escrita contemporánea.
 
 - - - - - - - -
 
