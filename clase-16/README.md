@@ -2,7 +2,7 @@
 
 ### Clase 16 → 29/11/2020
 
-En la clase de hoy corresponde a los grupos avanzar en la estructura de la página, a la que pueden agregar la gráfica como recorte del boceto para luego cambiarla al archivo correspondiente: JPG, PNG, GIF, SVG o VIDEO.
+En la clase de hoy corresponde a los grupos avanzar en la estructura de la página, a la que pueden agregar la gráfica como recorte del boceto, para luego cambiarla al archivo correspondiente: JPG, PNG, GIF, SVG o VIDEO.
 
 
 - - - - - - - - - - -
