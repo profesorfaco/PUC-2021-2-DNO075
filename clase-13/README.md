@@ -13,7 +13,7 @@ El tema será abordado desde:
 - [Erupción del Volcán Chaitén de 2008](https://github.com/Impacto-socioecologico/25-de-octubre)
 - [El Riñihuazo](https://github.com/Infografia-Digital/info-digital-11)
 
-En la clase de hoy, corresponde trabajar:
+En la clase de hoy, corresponde trabajar en:
 
 - **Redacción linear**: Escriben y muestran - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
 
