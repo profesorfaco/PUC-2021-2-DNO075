@@ -4,7 +4,7 @@
 
 Tenemos un tema de curso:
 
-> > Chile es un país expuesto de manera permanente a amenazas de origen tanto natural como antrópicas, entre las que destacan los **terremotos, tsunamis, erupciones volcánicas, inundaciones, incendios forestales**, entre otras, por lo que la formulación de una política y su posterior promulgación, va a contribuir a contar con un **país más preparado y resiliente frente a los desastres** - http://bcn.cl/2qkaz
+> Chile es un país expuesto de manera permanente a amenazas de origen tanto natural como antrópicas, entre las que destacan los **terremotos, tsunamis, erupciones volcánicas, inundaciones, incendios forestales**, entre otras, por lo que la formulación de una política y su posterior promulgación, va a contribuir a contar con un **país más preparado y resiliente frente a los desastres** - http://bcn.cl/2qkaz
 
 El tema será abordado desde:
 
