@@ -10,7 +10,7 @@ Corresponde continuar el trabajo, desde lo realizado [la sesión anterior](https
 
 En sus dos versiones (grande y chica), el *sketch* está dividido en tres partes. Optimicen cada parte para que pese menos de 200kb.
 
-**Pero [la plantilla compartida para esta clase](https://profesorfaco.github.io/dno075-2021-2/clase-14/) no termina en el *sketch***; después viene algo que ya conocen: Es el trabajo que hicieron en la [clase 4](https://profesorfaco.github.io/dno075-2021-2/clase-04/), que ahora se invierte: 
+**Pero [la plantilla compartida para esta clase](https://profesorfaco.github.io/dno075-2021-2/clase-05/) no termina en el *sketch***; después viene algo que ya conocen: Es el trabajo que hicieron en la [clase 5](https://profesorfaco.github.io/dno075-2021-2/clase-05/), que ahora se invierte: 
 
 Ya no deben capturar **colores, tipografías y gráficos** de un trabajo ajeno, sino que deben decidir y mostrar los **propios**.
 
