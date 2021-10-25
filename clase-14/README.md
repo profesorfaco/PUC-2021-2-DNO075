@@ -20,21 +20,31 @@ Hoy corresponde realizar un trabajo que se recomienda **dividir en 3 etapas**, a
 
 De esta manera: 
 
-- un equipo de 6 integrantes debería producir un total de 13 *sketches* (6 + 6 + 1) 
+- un equipo de 6 integrantes debería producir un total de 13 bocetos (6 + 6 + 1) 
 - un equipo de 5 integrantes debería producir un total de 11 (5 + 5 + 1); y 
 - un equipo de 4 integrantes debería producir un total de 9 (4 + 4 + 1).
 
-**Cada boceto desarrollado debe incluirse en [la plantilla preparada para la clase](https://profesorfaco.github.io/dno075-2021-2/clase-14/)**.
+Corresponde tener copia digital de cada boceto. El peso de cada copia debe cuidarse; la suma de los pesos de todos los bocetos **no debería ser mayor a 2000 Kb**. Para ajustar el peso de copia, aprovechen:
+
+- https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
+
+- https://tinypng.com/
+
+- https://squoosh.app/
+
+**Los 9, 11 o 13 bocetos (depende del número de integrantes del grupo) debe incluirse en [la plantilla preparada para la clase](https://profesorfaco.github.io/dno075-2021-2/clase-14/)**.
 
 - - - - - - - -
 
-Ideal es que el boceto final se confunda con uno producido para una infografía que ha de ser publicada por el South China Morning Post o en Reuters Graphics, y bajo ninguna circunstancia se confunda con el *wireframe* de una *landing page*:
+Ideal es que el último boceto, el grupal, se confunda con uno producido para una infografía que ha de ser publicada por el South China Morning Post o en Reuters Graphics, y bajo ninguna circunstancia se confunda con el *wireframe* de una *landing page*:
 
 🙂  👍  https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch
 
 ☹️  👎  https://es.dreamstime.com/una-plantilla-del-dise%C3%B1o-sitio-web-de-la-p%C3%A1gina-para-su-negocio-aterrizaje-wireframe-ui-ux-responsivo-moderno-plano-il-image106890730
 
-Para desarrollar cada boceto pueden confiar en su habilidad de dibujo o usar técnicas mixtas. Cada integrante podrá decidir la manera en que puede concretar sus ideas de forma económica dentro de los plazos sugeridos. No se preocupe por la calidad de cada dibujo individual, sólo se recomienda que el boceto final esté a cargo de quien tenga mejor habilidad de dibujo. También se recomienda que las partes textuales de mayor jerarquía pueden leerse en cada boceto, mientras las de jerarquía menor quedan como líneas paralelas que representan párrafos, tal como en [Infographics: The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch).
+Pero no sufran por su habilidad en el dibujo; si muestra algo comprensible, es suficiente (y una persona hecha a base de palitos ya es comprensible). Sólo se recomienda que el boceto final esté a cargo de quien tenga mejor habilidad de dibujo.
+
+También se recomienda que las partes textuales de mayor jerarquía puedan leerse en cada boceto, mientras aquellas menores quedan como líneas paralelas que representan párrafos, tal como en [Infographics: The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch).
 
 - - - - - - - -
 
