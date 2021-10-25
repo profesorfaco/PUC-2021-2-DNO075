@@ -22,7 +22,7 @@ De esta manera:
 
 - un equipo de 6 integrantes debería producir un total de 13 *sketches* (6 + 6 + 1) 
 - un equipo de 5 integrantes debería producir un total de 11 (5 + 5 + 1); y 
-- un equipo de 4 debería producir 9 (4 + 4 + 1).
+- un equipo de 4 integrantes debería producir un total de 9 (4 + 4 + 1).
 
 - - - - - - - -
 
