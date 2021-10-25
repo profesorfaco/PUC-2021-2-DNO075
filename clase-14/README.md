@@ -24,7 +24,7 @@ De esta manera:
 - un equipo de 5 integrantes debería producir un total de 11 (5 + 5 + 1); y 
 - un equipo de 4 integrantes debería producir un total de 9 (4 + 4 + 1).
 
-Cada boceto desarrollado debe incluirse en [la plantilla preparada para la clase](https://profesorfaco.github.io/dno075-2021-2/clase-14/).
+**Cada boceto desarrollado debe incluirse en [la plantilla preparada para la clase](https://profesorfaco.github.io/dno075-2021-2/clase-14/)**.
 
 - - - - - - - -
 
