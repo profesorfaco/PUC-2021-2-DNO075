@@ -4,7 +4,7 @@
 
 Corresponde continuar el trabajo, desde lo realizado [la sesión anterior](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-14), en la que pudieron publicar varios bocetos.
 
-Hoy corresponde aunar los bocetos y los comentarios, para generar un boceto definitivo en dos versiones (pantalla computador y pantalla dispositivo móvil). 
+Hoy corresponde generar un boceto definitivo en dos versiones (pantalla computador y pantalla dispositivo móvil). 
 
 **Luego podrán utilizar [una plantilla](https://profesorfaco.github.io/dno075-2021-2/clase-15/) que reciclamos de la clase 5**:
 
