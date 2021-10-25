@@ -2,7 +2,18 @@
 
 ### Clase 13 → 08/11/2021
 
-Qué informar.
+Tenemos un tema de curso, que son los desastres socionaturales en Chile, y tal tema será abordados desde: 
+
+- Incendios forestales del 2017 - https://github.com/InfoDigitalGrupo/Incendios_Forestales-
+- Falla de Ramón - https://github.com/fallasanramon-infografiadigital/entrega1
+- Erupción del Volcán Chaitén de 2008 - https://github.com/Impacto-socioecologico/25-de-octubre
+- El Riñuhuazo - https://github.com/Infografia-Digital/info-digital-11
+
+En la clase de hoy, corresponde trabajar:
+
+- **Redacción linear**: Escriben y muestran - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
+
+- **Calidad informativa**: Escriben y muestran lo justo y necesario, dando evidencia de un asunto bien investigado.
 
 - - - - - - - -
 
