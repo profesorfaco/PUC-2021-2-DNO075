@@ -24,6 +24,8 @@ De esta manera:
 - un equipo de 5 integrantes debería producir un total de 11 (5 + 5 + 1); y 
 - un equipo de 4 integrantes debería producir un total de 9 (4 + 4 + 1).
 
+Cada boceto desarrollado debe incluirse en [la plantilla preparada para la clase](https://profesorfaco.github.io/dno075-2021-2/clase-14/).
+
 - - - - - - - -
 
 Ideal es que el boceto final se confunda con uno producido para una infografía que ha de ser publicada por el South China Morning Post o en Reuters Graphics, y bajo ninguna circunstancia se confunda con el *wireframe* de una *landing page*:
@@ -32,7 +34,7 @@ Ideal es que el boceto final se confunda con uno producido para una infografía 
 
 ☹️  👎  https://es.dreamstime.com/una-plantilla-del-dise%C3%B1o-sitio-web-de-la-p%C3%A1gina-para-su-negocio-aterrizaje-wireframe-ui-ux-responsivo-moderno-plano-il-image106890730
 
-Para desarrollar cada boceto pueden confiar en su habilidad de dibujo o usar técnicas mixtas. Cada integrante podrá decidir la manera en que puede concretar sus ideas de forma económica dentro de los plazos sugeridos. Se recomienda notar que, en [Infographics: The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch), las partes textuales de mayor jerarquía pueden leerse en cada boceto, mientras las de jerarquía menor quedan como líneas paralelas que representan párrafos.
+Para desarrollar cada boceto pueden confiar en su habilidad de dibujo o usar técnicas mixtas. Cada integrante podrá decidir la manera en que puede concretar sus ideas de forma económica dentro de los plazos sugeridos. No se preocupe por la calidad de cada dibujo individual, sólo se recomienda que el boceto final esté a cargo de quien tenga mejor habilidad de dibujo. También se recomienda que las partes textuales de mayor jerarquía pueden leerse en cada boceto, mientras las de jerarquía menor quedan como líneas paralelas que representan párrafos, tal como en [Infographics: The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch).
 
 - - - - - - - -
 
