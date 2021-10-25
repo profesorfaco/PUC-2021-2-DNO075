@@ -4,7 +4,7 @@
 
 Hoy corresponde realizar un trabajo que se recomienda **dividir en 3 etapas**, adaptando una dinámica de diseño colaborativo conocida como *Design Studio*, la que se describe en el libro [Lean UX de Jeff Gothelf (pp.37-41)](https://drive.google.com/file/d/1sjTOzb0sRthTwPaNZF5wDJ4KkEsgChAc/view?usp=sharing). La etapas exigen:
 
-**1ro.** Delimitar el desafío grupal: ¿Qué informar mediante gráfica?
+**1ro.** Delimitar el desafío grupal: ¿Qué vamos a informar?
 
 **2do.** Cada integrante del grupo debe desarrollar un boceto respondiendo al desafío delimitado:
  
