@@ -15,9 +15,11 @@ El tema será abordado desde:
 
 En la clase de hoy, corresponde trabajar en:
 
-- **Redacción linear**: Escriben y muestran - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
+- **Redacción linear**: Definir el despliegue linear desde las duplas "escribir y mostrar" - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
 
-- **Calidad informativa**: Escriben y muestran lo justo y necesario, dando evidencia de un asunto bien investigado.
+- **Calidad informativa**: Definir las duplas desde lo justo y necesario, dando evidencia de un asunto bien investigado.
+
+- **Recolección de antecedentes infográficos**: Seleccionar trabajos profesionales que puedan relacionarse con el abordaje del tema. Se recomienda obtener los trabajos desde: https://graphics.reuters.com/, https://www.scmp.com/infographic/, http://infografias.elmercurio.com/ y otras fuentes relacionadas con prensa escrita contemporánea.
 
 - - - - - - - -
 
