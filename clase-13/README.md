@@ -11,7 +11,7 @@ El tema será abordado desde:
 - [Incendios forestales del 2017](https://github.com/InfoDigitalGrupo/Incendios_Forestales-)
 - [Falla de Ramón](https://github.com/fallasanramon-infografiadigital/entrega1)
 - [Erupción del Volcán Chaitén de 2008](https://github.com/Impacto-socioecologico/25-de-octubre)
-- [El Riñuhuazo](https://github.com/Infografia-Digital/info-digital-11)
+- [El Riñihuazo](https://github.com/Infografia-Digital/info-digital-11)
 
 En la clase de hoy, corresponde trabajar:
 
