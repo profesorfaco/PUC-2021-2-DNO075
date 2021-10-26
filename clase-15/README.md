@@ -43,7 +43,7 @@ Y agregar:
 
 - https://www.adslzone.net/como-se-hace/photoshop/guardar-imagen-para-web/
 
-**Es que si ustedes construyen algo para la Web con imágenes de peso excesivo: Están abusando de la transferencia de datos en la conexión a Internet de cada visitante**. Esta transferencia puede demorar, y en la demora la imagen no se carga. Luego, quien visita lo construído se decepciona porque no ve nada y en cosa de segundos puede retirarse a otro lugar:
+**Es que si ustedes incluyen en su infografía recursos de peso excesivo: Están abusando de la transferencia de datos en la conexión a Internet de cada visitante**. Esta transferencia puede demorar, y en la demora el recurso no se carga. Luego, quien visita su infografía se decepciona porque no ve nada y en cosa de segundos puede dirigirse a otro lugar:
 
 - [Tienes 5 segundos](http://www.tienes5segundos.cl/) se llama un viejo clásico local sobre gestión de contenidos digitales. 
 
