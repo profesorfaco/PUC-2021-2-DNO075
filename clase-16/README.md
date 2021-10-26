@@ -10,11 +10,11 @@ En la clase de hoy corresponde **avanzar considerando que la infografía digital
 
 **Con ello podremos hacer una pre-corrección de**:
 
-- Redacción linear: el despliegue narrativo en el que se escribe y se muestra - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
+- **Redacción linear**: Calidad del despliegue narrativo en el que se escribe y se muestra - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
 
-- Calidad informativa: la evidencia de un tema bien investigado, desplegado en función del medio (ver referencias más abajo).
+- **Calidad informativa**: Evidencia de un tema bien investigado, desplegado en función del medio (ver referencias más abajo).
 
-- Responsividad: La infografía digital se despliega bien en celular y otros dispositivos.
+- **Responsividad**: La infografía digital se despliega bien en celular y otros dispositivos.
 
 **Luego podrán cambiar cada recorte del boceto por el archivo correspondiente: SVG, PNG, JPG, GIF o VIDEO.**
 
