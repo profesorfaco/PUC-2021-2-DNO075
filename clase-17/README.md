@@ -12,8 +12,6 @@
 
 - **Responsividad**: La infografía digital se despliega bien en celular y otros dispositivos.
 
-- **Reconocimiento de pares**: Están vinculados en el *footer* de cada infografía digital ajena (son 4 espacios que tiene cada grupo, debe usar esos 4)
-
 **Recibiendo su evaluación, los equipos tendrán la posibilidad de hacer modificaciones dentro de una semana y volver a presentar al comienzo de la próxima clase, para una re-evaluación**. 
 
 - - - - - - - - - - -
