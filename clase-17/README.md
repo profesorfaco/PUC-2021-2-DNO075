@@ -4,11 +4,11 @@
 
 **Al final de esta clase se evaluará el resultado del trabajo de los equipos, aplicando una pauta que considerará**:
 
-- **Redacción linear**: Escriben y muestran - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
+- **Redacción linear**: Calidad del despliegue narrativo en el que se escribe y se muestra - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
 
-- **Calidad informativa**: Escriben y muestran lo justo y necesario, dando evidencia de un asunto bien investigado.
+- **Calidad informativa**: Evidencia de un tema bien investigado, desplegado en función del medio (ver referencias más abajo).
 
-- **Resolución gráfica**: Cuidan detalles de la forma, el color, los contraste, la legibilidad, el peso de las imágenes, etc.
+- **Resolución gráfica**: Cuidado de los detalles de la forma, el color, los contraste, la legibilidad, el peso de las imágenes, etc.
 
 - **Responsividad**: La infografía digital se despliega bien en celular y otros dispositivos.
 
