@@ -46,6 +46,14 @@ Pero no sufran por su habilidad en el dibujo; si muestra algo comprensible, es s
 
 También se recomienda que las partes textuales de mayor jerarquía puedan leerse en cada boceto, mientras aquellas menores quedan como líneas paralelas que representan párrafos, tal como en [Infographics: The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch).
 
+
+| Grupo  | Tema   | Organización en GitHub   | Avance en GitHub |
+|:------:|:-------|:-------------------------|:-----------------|
+| 1  | Incendios forestales del 2017 | https://github.com/InfoDigitalGrupo/ | https://infodigitalgrupo.github.io/Incendios_Forestales-/bocetos/  | 
+| 2  | Falla de Ramón | https://github.com/fallasanramon-infografiadigital/ | https://fallasanramon-infografiadigital.github.io/entrega3/ |
+| 3  | Erupción del Volcán Chaitén del 2008 | https://github.com/Volcan-Chaiten | https://volcan-chaiten.github.io/15-de-noviembre/ |
+| 4  | El Riñihuazo | https://github.com/Infografia-Digital/ | https://infografia-digital.github.io/info-digital-13/ | 
+
 - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-13) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-15) 
