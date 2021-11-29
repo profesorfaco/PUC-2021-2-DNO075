@@ -9,6 +9,11 @@
 
         :root {
             --bs-body-font-family: "Roboto", sans-serif;
+            /* el que es color de fondo */
+            --bs-body-bg: rgba(227, 224, 217, 1.00) !important;
+            /* el que es color de texto */            
+            --bs-body-color: #222  !important;
+            /* el que es color de destaque */
             --bs-primary: #f70;
         }
 
@@ -19,6 +24,10 @@
         h5,
         h6 {
             font-family: "Roboto Slab", serif;
+        }
+
+        body{
+            background: linear-gradient(rgba(255,255,255,0), var(--bs-body-bg));
         }
 
         header {
@@ -41,8 +50,6 @@
     </style>
     <title>Hola mundo!</title>
 </head>
-
-<body>
     <header>
         <div class="container">
             <div class="row">
