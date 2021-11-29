@@ -8,15 +8,17 @@ En la clase de hoy corresponde **avanzar considerando que la infografía digital
 2. Incluir el texto original de su redacción linear.
 3. Incluir recortes del boceto donde corresponda mostrar.
 
-**Con ello podremos hacer una pre-corrección de**:
+**Cuentan con plantillas para cada infografía, en ellas se incluyen correcciones que tienden, en la mayoría de los casos a una simplificación del relato linear**:
 
-- **Redacción linear**: Calidad del despliegue narrativo en el que se escribe y se muestra - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
+- https://profesorfaco.github.io/dno075-2021-2/clase-16/falla/
 
-- **Calidad informativa**: Evidencia de un tema bien investigado, desplegado en función del medio (ver referencias más abajo).
+- https://profesorfaco.github.io/dno075-2021-2/clase-16/incendio/
 
-- **Responsividad**: La infografía digital se despliega bien en celular y otros dispositivos.
+- https://profesorfaco.github.io/dno075-2021-2/clase-16/rinihuazo/
 
-**Luego podrán cambiar cada recorte del boceto por el archivo correspondiente: SVG, PNG, JPG, GIF o VIDEO.**
+- https://profesorfaco.github.io/dno075-2021-2/clase-16/volcan
+
+Sería ideal que se consigan la dirección de los trabajos de sus compañeras/os, así podrán dejarlos vinculados el pie de página, reemplazando el `#` en cada caso.
 
 - - - - - - - - - - -
 
