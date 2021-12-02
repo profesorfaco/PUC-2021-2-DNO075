@@ -6,7 +6,7 @@
 
 - **Redacción linear**: Calidad del despliegue narrativo en el que se escribe y se muestra - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
 
-- **Calidad informativa**: Evidencia de un tema bien investigado, desplegado en función del medio (ver referencias más abajo).
+- **Calidad informativa**: Evidencia de un tema bien investigado, desplegado en función del medio digital.
 
 - **Resolución gráfica**: Cuidado de los detalles de la forma, el color, los contraste, la legibilidad, el peso de las imágenes, etc.
 
