@@ -2,7 +2,7 @@
 
 ###  Clase 17 → 06/12/2021
 
-Los últimos avances de cada organización en Github son las siguientes:
+Los últimos avances en cada organización en Github son las siguientes:
 
 | Grupo  | Tema   | Organización en GitHub   | Avance en GitHub |
 |:------:|:-------|:-------------------------|:-----------------|
