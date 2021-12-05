@@ -10,11 +10,13 @@ En la clase de hoy corresponde **avanzar considerando que la infografía digital
 
 **Cuentan con plantillas para cada infografía, en ellas se incluyen correcciones que tienden, en la mayoría de los casos a una simplificación del relato linear**:
 
-- https://profesorfaco.github.io/dno075-2021-2/clase-16/falla/
+- ~~https://profesorfaco.github.io/dno075-2021-2/clase-16/falla/~~
+- https://profesorfaco.github.io/dno075-2021-2/clase-16/falla_v2/
 
 - https://profesorfaco.github.io/dno075-2021-2/clase-16/incendio/
 
-- https://profesorfaco.github.io/dno075-2021-2/clase-16/rinihuazo/
+- ~~https://profesorfaco.github.io/dno075-2021-2/clase-16/rinihuazo/~~
+- https://profesorfaco.github.io/dno075-2021-2/clase-16/rinihuazo_v2/
 
 - https://profesorfaco.github.io/dno075-2021-2/clase-16/volcan
 
