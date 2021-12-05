@@ -6,7 +6,7 @@ Los últimos avances en cada organización en Github son las siguientes:
 
 | Tema   | Organización en GitHub   | Avance en GitHub |
 |:-------|:-------------------------|:-----------------|
-| Incendios forestales del 2017 | https://github.com/InfoDigitalGrupo/ | https://infodigitalgrupo.github.io/29-Noviembre/  | 
+| Incendios forestales del 2017 | https://github.com/InfoDigitalGrupo/ | https://infodigitalgrupo.github.io/infografia-final  | 
 | Falla de Ramón | https://github.com/fallasanramon-infografiadigital/ | https://fallasanramon-infografiadigital.github.io/entrega_final |
 | Erupción del Volcán Chaitén del 2008 | https://github.com/Volcan-Chaiten | https://volcan-chaiten.github.io/02-Diciembre/ |
 | El Riñihuazo | https://github.com/Infografia-Digital/ | https://infografia-digital.github.io/info-digital-15/ | 
