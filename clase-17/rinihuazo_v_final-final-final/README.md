@@ -1,2 +1,1 @@
-# riñihuazo-final
-https://infografia-digital.github.io/rinihuazo-final/
+NO usar Base64 Image Encoder
