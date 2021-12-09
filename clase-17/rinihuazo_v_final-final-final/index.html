@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@400;500&family=Work+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300;400;500&family=Alegreya:wght@400;500&display=swap');
+            :root {
+                --bs-body-font-family: 'Alegreya Sans', sans-serif;
+                /* el que es color de fondo */
+                --bs-body-bg: rgba(245, 245, 245,1) !important;
+                /* el que es color de texto */
+                --bs-body-color: rgb(11, 12, 13) !important;
+                /* el que es color de destaque */
+                --bs-primary: rgb(2, 181, 157) !important;
+            }
+
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6 {
+                font-family: "Alegreya", serif;
+                font-weight: 500;
+            }
+
+            h1{
+                font-size: calc(2.5rem + 2.5rem);
+                font-weight: 400;
+                color: rgb(50, 40, 50);
+                text-shadow: 0 0 1rem rgba(50, 40, 50, .25);
+
+            }
+
+
+            b,
+            strong,
+            em {
+                font-weight: 600;
+                font-style: normal;
+            }
+
+
+            header {
+                height: 100vh;
+                background: linear-gradient(rgba(245, 245, 245, 0) 10%, var(--bs-body-bg) 100%), url(img/cabecera.jpg);
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover;
+            }            
+
+            .bg-gris-1 {
+                background-color: #dddddd;
+                margin: -1rem 0 0 0; 
+                padding: 0;
+            }
+            .bg-gris-2 {
+                background-color: #a5a5a5;
+                margin: -1rem 0 0 0; 
+                margin: 0; 
+
+            }
+
+            a{
+                color: black; text-decoration: none;
+            }
+            a:hover{
+                color: var(--bs-primary); text-decoration: underline;
+            }
+
+            #trabajadores img[src="img/ico-cocina.svg"]{
+                max-width: 1.8vw;
+                height: auto;
+                margin-right: 0.2vw;
+            }
+
+            #trabajadores img[src="img/ico-pala.svg"]{
+                max-width: 2vw;
+                height: auto;
+            }
+
+            #trabajadores img[src="img/ico-tractor.svg"]{
+                max-width: 6.25vw;
+                height: auto;
+            }
+
+            @media (max-width: 575.98px) {
+                #trabajadores img[src="img/ico-cocina.svg"]{
+                max-width: 3.8vw;
+                height: auto;
+                margin-right: 0.2vw;
+            }
+
+            #trabajadores img[src="img/ico-pala.svg"]{
+                max-width: 4vw;
+                height: auto;
+            }
+
+            #trabajadores img[src="img/ico-tractor.svg"]{
+                max-width: 8.25vw;
+                height: auto;
+            }
+            }
+
+        </style>
+        <title>El Riñihuazo</title>
+    </head>
+
+    <body>
+
+
+        <header>
+            <div class="container h-100">
+                <div class="row h-100 d-flex align-items-end">
+                    <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                        <h1 class="text-center">El Riñihuazo</h1>
+                        <h2 class="text-center fs-5">VULNERABILIDADES Y DESASTRES SOCIONATURALES EN CHILE</h2>
+                        <h6 class="text-center my-4">INFOGRAFÍA DIGITAL | DISEÑO UC</h6>
+                        <p class="lead">
+                            El Riñihuazo es el nombre dado al aumento de volumen en el lago Riñihue tras el mega terremoto de Valdivia de 1960, producto de tres deslizamientos de tierra que bloquearon el río San Pedro, el cual es un desagüe natural del lago Riñihue.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <!--MAPA REGIÓN DE LOS RÍOS-->
+            <section>
+            <div class="my-4">
+                <object data="img/01-100x100.svg" type="image/svg+xml" class="d-md-none"></object>
+                <object data="img/01-200x100.svg" type="image/svg+xml" class="d-none d-md-block"></object>
+            </div>
+
+            <div class="container">
+                    <div class="row">
+                        <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                            <p>
+                                A su vez, el Lago Riñihue es el desagüe natural de un sistema de seis lagos que incluyen al Calafquen, Neltume, Panguipulli, Pellafa, Pirihueco, Pullinque. Todos ubicados en una de las zonas más lluviosas del
+                                país.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+        </section>
+
+            <section class="container py-4">
+                <div class="row">
+                    <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                        <h3 class="text-center">Los Tacos</h3>
+                        <p>
+                            El mega terremoto de Valdivia, ocurrido el 22 de mayo de 1960, provocó deslizamientos de tierra en las laderas del cerro Tralcan. Tales deslizamientos se acumularon en tacos, que eran bloqueos barrosos del río
+                            San Pedro. Los tacos dejaban sin desagüe al Lago Riñihue, el sistema de seis lagos y todas las aguas fluviales.
+                        </p>
+                        <div class="my-4">
+                            <object data="img/02-100x100.svg" type="image/svg+xml" class="d-md-none"></object>
+                            <object data="img/02-200x100.svg" type="image/svg+xml" class="d-none d-md-block"></object>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="container py-4">
+                <div class="row">
+                    <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                        <h3 class="text-center">Evitar otra catástrofe</h3>
+
+                        <p>
+                            Debido a la falta de desagüe, comenzó a aumentar el nivel del Lago Riñihue, convirtiéndose en una amenaza para los sobrevivientes del terremoto más grande registrado en la historia (que tuvo una magnitud de 9,6
+                            M<sub>W</sub>). Era la amenaza de un tsunami de agua dulce, bajando desde la cordillera hacia el mar.
+                        </p>
+
+                        <div class="my-3">
+                            <!--Muestra la imagen más ancha o la cuadrada según pantalla-->
+                            <object data="img/04-100x100.svg" type="image/svg+xml" class="w-100"></object>
+                            <!--Se muestra o no por una clase de Bootstrap que responde al ancho de pantalla-->
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!--EVITAR DE UNA CATÁSTROFE-->
+
+            <section class="container-fluid">
+                <div class="container py-4">
+                    <div class="row">
+                        <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                            <h3 class="text-center">Contra el tiempo y con la fuerza de la naturaleza</h3>
+                            <p>
+                                La amenaza era una ola de 8 metros que habría arrasando con lo que quedaba de la ciudad de Valdivia. Contra el tiempo debían <em>construirse canales de 5 metros de profundidad, que se ensancharían hasta los 25 metros tan pronto el río San Pedro pudiera ingresar en ellos</em>. De esta manera, el mismo río encontraría la manera de volver a ser el desagüe progresivo y controlado del lago.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <object data="img/10-200x100.svg" type="image/svg+xml" class="w-100"></object>
+
+
+            
+            <!--FUERZA LABORAL HUMANA-->
+
+            <section class="bg-gris-1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                        <h3 class="text-center mt-5">La fuerza humana</h3>
+                        <p>
+                            <em>Cerca de 500 personas</em> se pueden contar entre obreros dispuestos a construir estos canales con sus propias palas, y quienes apoyaron en labores de alimentación, aseo y enfermería. La mano de obra era
+                            apoyada con maquinaria que poco podría hacer sin hundirse, por su propio peso, en un terreno reblandecido. Por ello, sus labores se limitaban al transporte del barro que los trabajadores guardaban en tarros de
+                            pintura y leche.
+                        </p>
+                        <div id="trabajadores" class="w-100 mt-2 mb-5">
+                            <!--ico-cocina-->
+                            <img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="1"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="2"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="3"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="4"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="5"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="6"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="7"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="8"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="9"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="10"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="11"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="12"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="13"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="14"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="15"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="16"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="17"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="18"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="19"><img loading="lazy" src="img/ico-cocina.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="20"><!--ico-pala--><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="1"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="2"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="3"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="4"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="5"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="6"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="7"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="8"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="9"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="10"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="11"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="12"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="13"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="14"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="15"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="16"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="17"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="18"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="19"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="20"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="21"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="22"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="23"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="24"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="25"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="26"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="27"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="28"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="29"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="30"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="31"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="32"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="33"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="34"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="35"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="36"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="37"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="38"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="39"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="40"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="41"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="42"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="43"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="44"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="45"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="46"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="47"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="48"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="49"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="50"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="51"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="52"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="53"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="54"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="55"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="56"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="57"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="58"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="59"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="60"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="61"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="62"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="63"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="64"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="65"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="66"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="67"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="68"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="69"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="70"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="71"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="72"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="73"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="74"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="75"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="76"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="77"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="78"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="79"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="80"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="81"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="82"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="83"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="84"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="85"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="86"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="87"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="88"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="89"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="90"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="91"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="92"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="93"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="94"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="95"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="96"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="97"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="98"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="99"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="100"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="101"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="102"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="103"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="104"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="105"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="106"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="107"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="108"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="109"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="110"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="111"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="112"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="113"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="114"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="115"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="116"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="117"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="118"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="119"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="120"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="121"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="122"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="123"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="124"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="125"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="126"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="127"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="128"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="129"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="130"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="131"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="132"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="133"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="134"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="135"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="136"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="137"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="138"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="139"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="140"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="141"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="142"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="143"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="144"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="145"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="146"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="147"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="148"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="149"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="150"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="151"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="152"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="153"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="154"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="155"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="156"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="157"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="158"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="159"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="160"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="161"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="162"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="163"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="164"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="165"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="166"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="167"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="168"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="169"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="170"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="171"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="172"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="173"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="174"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="175"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="176"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="177"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="178"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="179"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="180"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="181"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="182"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="183"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="184"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="185"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="186"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="187"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="188"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="189"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="190"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="191"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="192"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="193"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="194"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="195"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="196"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="197"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="198"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="199"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="200"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="201"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="202"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="203"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="204"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="205"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="206"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="207"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="208"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="209"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="210"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="211"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="212"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="213"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="214"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="215"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="216"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="217"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="218"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="219"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="220"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="221"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="222"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="223"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="224"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="225"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="226"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="227"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="228"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="229"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="230"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="231"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="232"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="233"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="234"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="235"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="236"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="237"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="238"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="239"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="240"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="241"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="242"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="243"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="244"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="245"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="246"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="247"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="248"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="249"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="250"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="251"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="252"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="253"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="254"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="255"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="256"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="257"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="258"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="259"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="260"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="261"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="262"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="263"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="264"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="265"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="266"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="267"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="268"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="269"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="270"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="271"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="272"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="273"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="274"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="275"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="276"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="277"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="278"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="279"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="280"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="281"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="282"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="283"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="284"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="285"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="286"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="287"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="288"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="289"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="290"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="291"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="292"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="293"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="294"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="295"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="296"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="297"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="298"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="299"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="300"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="301"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="302"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="303"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="304"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="305"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="306"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="307"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="308"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="309"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="310"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="311"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="312"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="313"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="314"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="315"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="316"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="317"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="318"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="319"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="320"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="321"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="322"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="323"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="324"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="325"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="326"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="327"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="328"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="329"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="330"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="331"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="332"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="333"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="334"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="335"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="336"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="337"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="338"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="339"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="340"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="341"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="342"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="343"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="344"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="345"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="346"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="347"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="348"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="349"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="350"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="351"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="352"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="353"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="354"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="355"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="356"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="357"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="358"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="359"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="360"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="361"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="362"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="363"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="364"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="365"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="366"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="367"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="368"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="369"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="370"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="371"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="372"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="373"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="374"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="375"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="376"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="377"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="378"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="379"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="380"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="381"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="382"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="383"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="384"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="385"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="386"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="387"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="388"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="389"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="390"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="391"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="392"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="393"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="394"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="395"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="396"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="397"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="398"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="399"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="400"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="401"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="402"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="403"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="404"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="405"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="406"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="407"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="408"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="409"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="410"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="411"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="412"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="413"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="414"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="415"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="416"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="417"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="418"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="419"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="420"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="421"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="422"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="423"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="424"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="425"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="426"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="427"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="428"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="429"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="430"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="431"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="432"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="433"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="434"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="435"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="436"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="437"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="438"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="439"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="440"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="441"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="442"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="443"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="444"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="445"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="446"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="447"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="448"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="449"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="450"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="451"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="452"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="453"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="454"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="455"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="456"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="457"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="458"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="459"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="460"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="461"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="462"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="463"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="464"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="465"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="466"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="467"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="468"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="469"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="470"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="471"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="472"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="473"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="474"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="475"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="476"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="477"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="478"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="479"><img loading="lazy" src="img/ico-pala.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="480"><!--salto de línea--><br><!--ico-tractor--><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="1"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="2"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="3"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="4"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="5"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="6"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="7"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="8"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="9"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="10"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="11"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="12"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="13"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="14"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="15"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="16"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="17"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="18"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="19"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="20"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="21"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="22"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="23"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="24"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="25"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="26"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="27"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="28"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="29"><img loading="lazy" src="img/ico-tractor.svg" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="30">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </section>
+
+            <!--PROCESO DE CONSTRUCCIÓN DE LOS CANALES-->
+            <section class="bg-gris-1">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                            <h3 class="text-center mt-5">Proceso de los canales</h3>
+                            <p>
+                                Para destrabar el Riñihue de manera controlada, era necesario construir canales a partir de zanjas cavadas por los mismos obreros, que luego se ensanchaban como terrazas. La parte más profunda de la terraza
+                                era reforzada, y posteriormente se le daba el paso al río para convetir lo excavado en un canal.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div id="carruselDetTrabajo" class="carousel carousel-dark slide carousel-fade" data-bs-ride="carousel" style="margin-bottom: -2rem;">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#carruselDetTrabajo" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carruselDetTrabajo" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carruselDetTrabajo" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    </div>
+                                <!--1-->
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active m-0 p-0" data-bs-interval="4000">
+                                        <object data="img/07-200x100.svg" type="image/svg+xml" class="w-100 m-0 p-0"></object>
+                                        <div class="carousel-caption">
+                                            <p>1</p>
+                                            <small>
+                                                Los trabajadores cavaron zanjas y luego terrazas. Escalón a escalón, podían subir barro a la superficie.
+                                            </small>
+                                        </div>
+                                    </div>
+                                    <!--2-->
+                                    <div class="carousel-item" data-bs-interval="4000">
+                                        <object data="img/08-200x100.svg" type="image/svg+xml" class="w-100 m-0 p-0"></object>
+                                        <div class="carousel-caption">
+                                            <p>2</p>
+                                            <small>
+                                                Vigas de madera, obtenidas de las casas destrozadas por el mega terremoto, se utilizaron como soportes de cada excavación.
+                                            </small>
+                                        </div>
+                                    </div>
+                                    <!--3-->
+                                    <div class="carousel-item" data-bs-interval="4000">
+                                        <object data="img/09-200x100.svg" type="image/svg+xml" class="w-100 m-0 p-0"></object>
+                                        <div class="carousel-caption">
+                                            <p>3</p>
+                                            <small>
+                                                Con agua a presión, conducida por mangueras, se llenó cada excavación para evitar su colpso sobre los soportes.
+                                            </small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+            </section>
+
+            <section class="bg-gris-2 container-fluid">
+                <div class="container">
+                    <div class="row py-5">
+                        <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                            <p>
+                                Con una explosión de dinamita se horadaba el muro de tierra que mantenía a salvo a los excavadores del canal. Después de cada explosión, el torrente del río San Pedro encontraba un nuevo camino para hacer el
+                                desagüe que liberaría a la zona de una catástrofe mayor.
+                            </p>
+                            <figure class="text-center mb-5">
+
+                                    <video autoplay loop muted playsinline>
+                                        <source src="img/ex-gif-dinamita.webm" type="video/webm">
+                                        <source src="img/ex-gif-dinamita.mp4" type="video/mp4">
+                                    </video>
+                                <figcaption class="small">
+                                    Registro del proceso de ensanchamiento del canal extraído del documental
+                                    <a href="http://cinetecavirtual.uchile.cl/cineteca/index.php/Detail/objects/2625">
+                                        "La Respuesta" (1961).
+                                    </a>
+                                </figcaption>
+                            </figure>
+                            <p>
+                                El río San Pedro retomó su cause el 30 de Junio de 1960, Habiendo arrastrado los tacos. Así se hizo el desagüe del Lago Riñihue. Las tierras bajas en Valdivia igualmente recibieron más agua, pero no fue una ola de varios metros, sino una inundación de menos de uno, que anegó a las casas que seguían en pie, sólo en su primer piso.
+                            </p>
+                            <figure class="text-center mb-5">
+                                    <video autoplay loop muted playsinline>
+                                        <source src="img/ex-gif-botes.webm" type="video/webm">
+                                        <source src="img/ex-gif-botes.mp4" type="video/mp4">
+                                    </video>  
+
+                                <figcaption class="small">
+                                  
+                                    Niños valdivianos jugando en botes tras la liberación de los "tacos", extraído del documental
+                                    <a href="http://cinetecavirtual.uchile.cl/cineteca/index.php/Detail/objects/2625">
+                                        "La Respuesta" (1961).
+                                    </a>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!--AMENAZAS-->
+            <section class="container">
+                <div class="row py-5">
+                    <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                        <h3 class="text-center my-4">Amenazas como la del Riñihue</h3>
+                        <p>
+                            Chile cuenta con 3 embalses y 14 lagos con características similares al Riñihue. Son cuerpos de agua que están en zonas altas y requieren de un río para hacer su desagüe. El bloqueo de tales desagües podría
+                            provocar otro Riñihuazo. Entre los más cercanos a lugares poblados, se encuentran el Lago Colbún, el Embalse Machicura y el Embalse El Yeso.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 pt-3 pb-4">
+                        <object data="img/11-100x100.svg" type="image/svg+xml" class="d-md-none"></object>
+                        <object data="img/11-200x100.svg" type="image/svg+xml" class="d-none d-md-block"></object>
+                        <p class="py-3">
+                            <strong>Lago Colbún</strong>: El “hermano grande” del embalse Machicura. Esté es parte del complejo hidroeléctrico de Colbún. Es un embalse artificial, que tiene una capacidad de 1544 millones de metros cúbicos.
+                            Si se tapan las desembocaduras de este complejo, podríamos enfrentarnos ante una catástrofe que elimine completamente la ciudad de Constitución.
+                        </p>
+                    </div>
+                    <!--2-->
+                    <div class="col-md-4 pt-3 pb-4">
+                        <object data="img/12-100x100.svg" type="image/svg+xml" class="d-md-none"></object>
+                        <object data="img/12-200x100.svg" type="image/svg+xml" class="d-none d-md-block"></object>
+                        <p class="py-3">
+                            <strong>Embalse Machicura</strong>: Parte del complejo hidroeléctrico Colbún ubicado en la región del Maule. En su canal de aducción pasan 280 m3 de agua por segundo. Pone en riesgo a la ciudad de Constitución
+                            con un evento como el explicado anteriormente.
+                        </p>
+                    </div>
+                    <!--3-->
+                    <div class="col-md-4 pt-3 pb-4">
+                        <object data="img/13-100x100.svg" type="image/svg+xml" class="d-md-none"></object>
+                        <object data="img/13-200x100.svg" type="image/svg+xml" class="d-none d-md-block"></object>
+                        <p class="py-3">
+                            <strong>Embalse El Yeso</strong>: Reserva artificial de agua acumulada mediante una represa, ubicada en la cordillera de los Andes. Contiene 253 millones de metros cúbicos de agua aproximadamente y está a 2.500
+                            mts. sobre el nivel del mar. Un “Riñihuazo” en este embalse afectaría principalmente a la ciudad de San José del Maipo.
+                        </p>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <aside class="bg-gris-1">
+            <div class="container">
+                <div class="row py-5">
+                    <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto small text-center">
+                        <p><strong>Infografía desarrollada por</strong> Ljubedsa Calderón, Mirko González, María Ibáñez, Josefina Jara, Margarita Matte, Martín Pastenes</p>
+                        <h5 class="mt-3 mb-2">Fuentes</h5>
+                        <p><a href="http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0000526.pdf">La epopeya del Riñihue. Ercilla, 1308</a> &bull; <a href="https://conectaresiliencia.cl/el-rinihuazo-en-datos/">El Riñihuazo en datos</a> &bull; <a href="http://cinetecavirtual.uchile.cl/cineteca/index.php/Detail/objects/2625">Documental "La Respuesta" (1961).</a></p>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!--COPIANDO DESDE ACÁ-->
+        <footer class="bg-dark bg-gradient">
+            <div class="container">
+                <div class="row py-5">
+                    <div class="col-lg-12">
+                        <h4 class="text-white text-center w-75 mx-auto mb-5">Más sobre vulnerabilidades y desastres socionaturales en Chile</h4>
+                    </div>
+                    <!--DESDE AQUÍ LA TORMENTA IGNEA-->
+                    <div class="col-lg-4 mb-4">
+                        <div class="row g-0 bg-black text-white align-items-center shadow">
+                            <div class="col-4">
+                                <img loading="lazy" src="https://raw.githubusercontent.com/profesorfaco/dno075-2021-2/main/img/grupo-incendio.webp" class="w-100" />
+                            </div>
+                            <div class="col-8">
+                                <p class="px-3 small m-0 py-0">
+                                    <a href="https://infodigitalgrupo.github.io/infografia-final/" class="link-light fw-bold" target="_blank">Tormenta Ignea</a><br />
+                                    <small>2017</small>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--HASTA AQUÍ LA TORMENTA IGNEA-->
+                    <!--DESDE AQUÍ LA FALLA DE SAN RAMÓN-->
+                    <div class="col-lg-4 mb-4">
+                        <div class="row g-0 bg-black text-white align-items-center shadow">
+                            <div class="col-4">
+                                <img loading="lazy" src="https://raw.githubusercontent.com/profesorfaco/dno075-2021-2/main/img/grupo-falla.webp" class="w-100" />
+                            </div>
+                            <div class="col-8">
+                                <p class="px-3 small m-0 py-0">
+                                    <a href="https://fallasanramon-infografiadigital.github.io/entrega_final/" class="link-light fw-bold" target="_blank">Falla de San Ramón</a><br />
+                                    <small>2021</small>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--HASTA AQUÍ LA FALLA DE SAN RAMÓN-->
+                    <!--DESDE AQUÍ EL CHAITÉN-->
+                    <div class="col-lg-4 mb-4">
+                        <div class="row g-0 bg-black text-white align-items-center shadow">
+                            <div class="col-4">
+                                <img loading="lazy" src="https://raw.githubusercontent.com/profesorfaco/dno075-2021-2/main/img/grupo-volcan.webp" class="w-100" />
+                            </div>
+                            <div class="col-8">
+                                <p class="px-3 small m-0 py-0">
+                                    <a href="https://volcan-chaiten.github.io/Infrografia-Final/" class="link-light fw-bold" target="_blank">Chaitén, erupción inesperada</a><br />
+                                    <small>2008</small>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--HASTA AQUÍ EL CHAITÉN-->
+                </div>
+            </div>
+            <div class="container-fluid bg-black small text-white-50">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                            <p class="pt-3 text-center d-flex justify-content-between align-items-center">
+                                <span>INFOGRAFÍA DIGITAL</span> <a href="https://diseno.uc.cl/" target="_blank" class="link-light">DISEÑO UC</a> <span>DICIEMBRE 2021</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!--HASTA ACÁ-->
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+        <script>
+    var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
+var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
+  return new bootstrap.Popover(popoverTriggerEl)
+})
+
+</script>
+    </body>
+</html>
