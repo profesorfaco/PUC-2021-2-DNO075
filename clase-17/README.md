@@ -25,4 +25,5 @@ Los últimos avances en cada organización en Github son las siguientes:
 
 - - - - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-16)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-16) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021-2/tree/main/clase-18)
+
