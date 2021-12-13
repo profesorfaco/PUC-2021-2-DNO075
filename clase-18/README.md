@@ -4,7 +4,7 @@
 
 Aprovechando comentarios compartidos mediante [documento en Google Drive](https://docs.google.com/spreadsheets/d/1LxNI_JQDLfHRMaHt4pp6iSDlLUWbDA4rWA-i3pcZ0o0/edit?usp=sharing), issue de GitHub y correo electrónco, los grupos pueden volver a entregar.
 
-| Tema              | GitHub Page                  | Nota Entrega | Nota Re-entrega          |
+| Tema              | GitHub Page                  | Entrega | Re-entrega |
 |:------------------|:-------------------------|:------------:|:-------------------------:|
 | Incendios forestales del 2017 | https://infodigitalgrupo.github.io/infografia-final/ | 5.5 | P |
 | Falla de Ramón   | https://fallasanramon-infografiadigital.github.io/entrega_final | 5.0 | P |
